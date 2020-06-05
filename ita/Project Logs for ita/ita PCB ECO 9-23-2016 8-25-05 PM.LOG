@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=vin 5-2
+Removed Member From Class: ClassName=ita Member=vin 5
+Change Component DesignItemId : Designator=bat Old DesignItemId=header 2 New DesignItemId=terminal block 2 pin
+Change Component Footprint: Designator=bat Old Footprint=header 2 New Footprint=terminal block
+Change Component Comment : Designator=bat Old Comment=9v New Comment=terminal block 2 pin
+Added Component: Designator=vin5(terminal block)
+Added Pin To Net: NetName=GND Pin=vin5-2
+Added Pin To Net: NetName=Netvin5_1 Pin=vin5-1
+Added Net: Name=Netvin5_1
+Added Member To Class: ClassName=ita Member=Component vin5 terminal block 2 pin

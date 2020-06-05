@@ -1,0 +1,12 @@
+Added Component: Designator=phi(HDR1X2)
+Added Component: Designator=R/S(terminal block)
+Added Component: Designator=T/N(terminal block)
+Added Pin To Net: NetName=NetD1R_2 Pin=phi-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=phi-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=R/S-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=R/S-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=T/N-1
+Added Pin To Net: NetName=NetD1R_2 Pin=T/N-2
+Added Member To Class: ClassName=teg Member=Component phi Header 2
+Added Member To Class: ClassName=teg Member=Component R/S terminal block 2 pin
+Added Member To Class: ClassName=teg Member=Component T/N terminal block 2 pin

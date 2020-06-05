@@ -1,0 +1,259 @@
+Added Component: Designator=Analog1(HDR2X5)
+Added Component: Designator=Analog2(HDR2X5)
+Added Component: Designator=Com(HDR2X5)
+Added Component: Designator=DIGITAL(HDR2X10)
+Added Component: Designator=Keypad(HDR2X4)
+Added Component: Designator=LCD(HDR2X4)
+Added Component: Designator=PWM(HDR2X7_CEN)
+Added Component: Designator=T1(HDR1X8)
+Added Component: Designator=T2(HDR1X8)
+Added Component: Designator=T3(HDR1X8)
+Added Component: Designator=T4(HDR1X8)
+Added Component: Designator=T5(HDR1X8)
+Added Component: Designator=T6(HDR1X6)
+Added Component: Designator=T7(HDR2X18)
+Added Component: Designator=vin(terminal block)
+Added Pin To Net: NetName=GND Pin=Analog1-1
+Added Pin To Net: NetName=GND Pin=Analog2-1
+Added Pin To Net: NetName=GND Pin=DIGITAL-1
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=PWM-1
+Added Pin To Net: NetName=GND Pin=T3-7
+Added Pin To Net: NetName=GND Pin=T6-5
+Added Pin To Net: NetName=GND Pin=T7-35
+Added Pin To Net: NetName=GND Pin=T7-36
+Added Pin To Net: NetName=GND Pin=vin-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAnalog1_3 Pin=Analog1-3
+Added Pin To Net: NetName=NetAnalog1_3 Pin=T5-1
+Added Net: Name=NetAnalog1_3
+Added Pin To Net: NetName=NetAnalog1_4 Pin=Analog1-4
+Added Pin To Net: NetName=NetAnalog1_4 Pin=T5-2
+Added Net: Name=NetAnalog1_4
+Added Pin To Net: NetName=NetAnalog1_5 Pin=Analog1-5
+Added Pin To Net: NetName=NetAnalog1_5 Pin=T5-3
+Added Net: Name=NetAnalog1_5
+Added Pin To Net: NetName=NetAnalog1_6 Pin=Analog1-6
+Added Pin To Net: NetName=NetAnalog1_6 Pin=T5-4
+Added Net: Name=NetAnalog1_6
+Added Pin To Net: NetName=NetAnalog1_7 Pin=Analog1-7
+Added Pin To Net: NetName=NetAnalog1_7 Pin=T5-5
+Added Net: Name=NetAnalog1_7
+Added Pin To Net: NetName=NetAnalog1_8 Pin=Analog1-8
+Added Pin To Net: NetName=NetAnalog1_8 Pin=T5-6
+Added Net: Name=NetAnalog1_8
+Added Pin To Net: NetName=NetAnalog1_9 Pin=Analog1-9
+Added Pin To Net: NetName=NetAnalog1_9 Pin=T5-7
+Added Net: Name=NetAnalog1_9
+Added Pin To Net: NetName=NetAnalog1_10 Pin=Analog1-10
+Added Pin To Net: NetName=NetAnalog1_10 Pin=T5-8
+Added Net: Name=NetAnalog1_10
+Added Pin To Net: NetName=NetAnalog2_3 Pin=Analog2-3
+Added Pin To Net: NetName=NetAnalog2_3 Pin=T4-1
+Added Net: Name=NetAnalog2_3
+Added Pin To Net: NetName=NetAnalog2_4 Pin=Analog2-4
+Added Pin To Net: NetName=NetAnalog2_4 Pin=T4-2
+Added Net: Name=NetAnalog2_4
+Added Pin To Net: NetName=NetAnalog2_5 Pin=Analog2-5
+Added Pin To Net: NetName=NetAnalog2_5 Pin=T4-3
+Added Net: Name=NetAnalog2_5
+Added Pin To Net: NetName=NetAnalog2_6 Pin=Analog2-6
+Added Pin To Net: NetName=NetAnalog2_6 Pin=T4-4
+Added Net: Name=NetAnalog2_6
+Added Pin To Net: NetName=NetAnalog2_7 Pin=Analog2-7
+Added Pin To Net: NetName=NetAnalog2_7 Pin=T4-5
+Added Net: Name=NetAnalog2_7
+Added Pin To Net: NetName=NetAnalog2_8 Pin=Analog2-8
+Added Pin To Net: NetName=NetAnalog2_8 Pin=T4-6
+Added Net: Name=NetAnalog2_8
+Added Pin To Net: NetName=NetAnalog2_9 Pin=Analog2-9
+Added Pin To Net: NetName=NetAnalog2_9 Pin=T4-7
+Added Net: Name=NetAnalog2_9
+Added Pin To Net: NetName=NetAnalog2_10 Pin=Analog2-10
+Added Pin To Net: NetName=NetAnalog2_10 Pin=T4-8
+Added Net: Name=NetAnalog2_10
+Added Pin To Net: NetName=NetCom_1 Pin=Com-1
+Added Net: Name=NetCom_1
+Added Pin To Net: NetName=NetCom_2 Pin=Com-2
+Added Pin To Net: NetName=NetCom_2 Pin=T1-2
+Added Net: Name=NetCom_2
+Added Pin To Net: NetName=NetCom_3 Pin=Com-3
+Added Pin To Net: NetName=NetCom_3 Pin=T2-1
+Added Net: Name=NetCom_3
+Added Pin To Net: NetName=NetCom_4 Pin=Com-4
+Added Pin To Net: NetName=NetCom_4 Pin=T2-2
+Added Net: Name=NetCom_4
+Added Pin To Net: NetName=NetCom_5 Pin=Com-5
+Added Pin To Net: NetName=NetCom_5 Pin=T1-3
+Added Net: Name=NetCom_5
+Added Pin To Net: NetName=NetCom_6 Pin=Com-6
+Added Pin To Net: NetName=NetCom_6 Pin=T1-4
+Added Net: Name=NetCom_6
+Added Pin To Net: NetName=NetCom_7 Pin=Com-7
+Added Pin To Net: NetName=NetCom_7 Pin=T1-5
+Added Net: Name=NetCom_7
+Added Pin To Net: NetName=NetCom_8 Pin=Com-8
+Added Pin To Net: NetName=NetCom_8 Pin=T1-6
+Added Net: Name=NetCom_8
+Added Pin To Net: NetName=NetCom_9 Pin=Com-9
+Added Pin To Net: NetName=NetCom_9 Pin=T1-7
+Added Net: Name=NetCom_9
+Added Pin To Net: NetName=NetCom_10 Pin=Com-10
+Added Pin To Net: NetName=NetCom_10 Pin=T1-8
+Added Net: Name=NetCom_10
+Added Pin To Net: NetName=NetDIGITAL_3 Pin=DIGITAL-3
+Added Pin To Net: NetName=NetDIGITAL_3 Pin=T7-17
+Added Net: Name=NetDIGITAL_3
+Added Pin To Net: NetName=NetDIGITAL_4 Pin=DIGITAL-4
+Added Pin To Net: NetName=NetDIGITAL_4 Pin=T7-18
+Added Net: Name=NetDIGITAL_4
+Added Pin To Net: NetName=NetDIGITAL_5 Pin=DIGITAL-5
+Added Pin To Net: NetName=NetDIGITAL_5 Pin=T7-19
+Added Net: Name=NetDIGITAL_5
+Added Pin To Net: NetName=NetDIGITAL_6 Pin=DIGITAL-6
+Added Pin To Net: NetName=NetDIGITAL_6 Pin=T7-20
+Added Net: Name=NetDIGITAL_6
+Added Pin To Net: NetName=NetDIGITAL_7 Pin=DIGITAL-7
+Added Pin To Net: NetName=NetDIGITAL_7 Pin=T7-21
+Added Net: Name=NetDIGITAL_7
+Added Pin To Net: NetName=NetDIGITAL_8 Pin=DIGITAL-8
+Added Pin To Net: NetName=NetDIGITAL_8 Pin=T7-22
+Added Net: Name=NetDIGITAL_8
+Added Pin To Net: NetName=NetDIGITAL_9 Pin=DIGITAL-9
+Added Pin To Net: NetName=NetDIGITAL_9 Pin=T7-23
+Added Net: Name=NetDIGITAL_9
+Added Pin To Net: NetName=NetDIGITAL_10 Pin=DIGITAL-10
+Added Pin To Net: NetName=NetDIGITAL_10 Pin=T7-24
+Added Net: Name=NetDIGITAL_10
+Added Pin To Net: NetName=NetDIGITAL_11 Pin=DIGITAL-11
+Added Pin To Net: NetName=NetDIGITAL_11 Pin=T7-25
+Added Net: Name=NetDIGITAL_11
+Added Pin To Net: NetName=NetDIGITAL_12 Pin=DIGITAL-12
+Added Pin To Net: NetName=NetDIGITAL_12 Pin=T7-26
+Added Net: Name=NetDIGITAL_12
+Added Pin To Net: NetName=NetDIGITAL_13 Pin=DIGITAL-13
+Added Pin To Net: NetName=NetDIGITAL_13 Pin=T7-27
+Added Net: Name=NetDIGITAL_13
+Added Pin To Net: NetName=NetDIGITAL_14 Pin=DIGITAL-14
+Added Pin To Net: NetName=NetDIGITAL_14 Pin=T7-28
+Added Net: Name=NetDIGITAL_14
+Added Pin To Net: NetName=NetDIGITAL_15 Pin=DIGITAL-15
+Added Pin To Net: NetName=NetDIGITAL_15 Pin=T7-29
+Added Net: Name=NetDIGITAL_15
+Added Pin To Net: NetName=NetDIGITAL_16 Pin=DIGITAL-16
+Added Pin To Net: NetName=NetDIGITAL_16 Pin=T7-30
+Added Net: Name=NetDIGITAL_16
+Added Pin To Net: NetName=NetDIGITAL_17 Pin=DIGITAL-17
+Added Pin To Net: NetName=NetDIGITAL_17 Pin=T7-31
+Added Net: Name=NetDIGITAL_17
+Added Pin To Net: NetName=NetDIGITAL_18 Pin=DIGITAL-18
+Added Pin To Net: NetName=NetDIGITAL_18 Pin=T7-32
+Added Net: Name=NetDIGITAL_18
+Added Pin To Net: NetName=NetDIGITAL_19 Pin=DIGITAL-19
+Added Pin To Net: NetName=NetDIGITAL_19 Pin=T7-33
+Added Net: Name=NetDIGITAL_19
+Added Pin To Net: NetName=NetDIGITAL_20 Pin=DIGITAL-20
+Added Pin To Net: NetName=NetDIGITAL_20 Pin=T7-34
+Added Net: Name=NetDIGITAL_20
+Added Pin To Net: NetName=NetKeypad_1 Pin=Keypad-1
+Added Pin To Net: NetName=NetKeypad_1 Pin=T7-9
+Added Net: Name=NetKeypad_1
+Added Pin To Net: NetName=NetKeypad_2 Pin=Keypad-2
+Added Pin To Net: NetName=NetKeypad_2 Pin=T7-10
+Added Net: Name=NetKeypad_2
+Added Pin To Net: NetName=NetKeypad_3 Pin=Keypad-3
+Added Pin To Net: NetName=NetKeypad_3 Pin=T7-11
+Added Net: Name=NetKeypad_3
+Added Pin To Net: NetName=NetKeypad_4 Pin=Keypad-4
+Added Pin To Net: NetName=NetKeypad_4 Pin=T7-12
+Added Net: Name=NetKeypad_4
+Added Pin To Net: NetName=NetKeypad_5 Pin=Keypad-5
+Added Pin To Net: NetName=NetKeypad_5 Pin=T7-13
+Added Net: Name=NetKeypad_5
+Added Pin To Net: NetName=NetKeypad_6 Pin=Keypad-6
+Added Pin To Net: NetName=NetKeypad_6 Pin=T7-14
+Added Net: Name=NetKeypad_6
+Added Pin To Net: NetName=NetKeypad_7 Pin=Keypad-7
+Added Pin To Net: NetName=NetKeypad_7 Pin=T7-15
+Added Net: Name=NetKeypad_7
+Added Pin To Net: NetName=NetKeypad_8 Pin=Keypad-8
+Added Pin To Net: NetName=NetKeypad_8 Pin=T7-16
+Added Net: Name=NetKeypad_8
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=NetLCD_3 Pin=T7-3
+Added Net: Name=NetLCD_3
+Added Pin To Net: NetName=NetLCD_4 Pin=LCD-4
+Added Pin To Net: NetName=NetLCD_4 Pin=T7-4
+Added Net: Name=NetLCD_4
+Added Pin To Net: NetName=NetLCD_5 Pin=LCD-5
+Added Pin To Net: NetName=NetLCD_5 Pin=T7-5
+Added Net: Name=NetLCD_5
+Added Pin To Net: NetName=NetLCD_6 Pin=LCD-6
+Added Pin To Net: NetName=NetLCD_6 Pin=T7-6
+Added Net: Name=NetLCD_6
+Added Pin To Net: NetName=NetLCD_7 Pin=LCD-7
+Added Pin To Net: NetName=NetLCD_7 Pin=T7-7
+Added Net: Name=NetLCD_7
+Added Pin To Net: NetName=NetLCD_8 Pin=LCD-8
+Added Pin To Net: NetName=NetLCD_8 Pin=T7-8
+Added Net: Name=NetLCD_8
+Added Pin To Net: NetName=NetPWM_2 Pin=PWM-2
+Added Pin To Net: NetName=NetPWM_2 Pin=T2-3
+Added Net: Name=NetPWM_2
+Added Pin To Net: NetName=NetPWM_3 Pin=PWM-3
+Added Pin To Net: NetName=NetPWM_3 Pin=T2-5
+Added Net: Name=NetPWM_3
+Added Pin To Net: NetName=NetPWM_4 Pin=PWM-4
+Added Pin To Net: NetName=NetPWM_4 Pin=T2-7
+Added Net: Name=NetPWM_4
+Added Pin To Net: NetName=NetPWM_5 Pin=PWM-5
+Added Pin To Net: NetName=NetPWM_5 Pin=T3-1
+Added Net: Name=NetPWM_5
+Added Pin To Net: NetName=NetPWM_6 Pin=PWM-6
+Added Pin To Net: NetName=NetPWM_6 Pin=T3-3
+Added Net: Name=NetPWM_6
+Added Pin To Net: NetName=NetPWM_7 Pin=PWM-7
+Added Pin To Net: NetName=NetPWM_7 Pin=T3-5
+Added Net: Name=NetPWM_7
+Added Pin To Net: NetName=NetPWM_9 Pin=PWM-9
+Added Pin To Net: NetName=NetPWM_9 Pin=T2-4
+Added Net: Name=NetPWM_9
+Added Pin To Net: NetName=NetPWM_10 Pin=PWM-10
+Added Pin To Net: NetName=NetPWM_10 Pin=T2-6
+Added Net: Name=NetPWM_10
+Added Pin To Net: NetName=NetPWM_11 Pin=PWM-11
+Added Pin To Net: NetName=NetPWM_11 Pin=T2-8
+Added Net: Name=NetPWM_11
+Added Pin To Net: NetName=NetPWM_12 Pin=PWM-12
+Added Pin To Net: NetName=NetPWM_12 Pin=T3-2
+Added Net: Name=NetPWM_12
+Added Pin To Net: NetName=NetPWM_13 Pin=PWM-13
+Added Pin To Net: NetName=NetPWM_13 Pin=T3-4
+Added Net: Name=NetPWM_13
+Added Pin To Net: NetName=NetPWM_14 Pin=PWM-14
+Added Pin To Net: NetName=NetPWM_14 Pin=T3-6
+Added Net: Name=NetPWM_14
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Net: Name=NetT1_1
+Added Pin To Net: NetName=NetT3_8 Pin=T3-8
+Added Net: Name=NetT3_8
+Added Pin To Net: NetName=NetT6_1 Pin=T6-1
+Added Net: Name=NetT6_1
+Added Pin To Net: NetName=NetT6_2 Pin=T6-2
+Added Net: Name=NetT6_2
+Added Pin To Net: NetName=NetT6_4 Pin=T6-4
+Added Net: Name=NetT6_4
+Added Pin To Net: NetName=NetT6_6 Pin=T6-6
+Added Pin To Net: NetName=NetT6_6 Pin=vin-2
+Added Net: Name=NetT6_6
+Added Pin To Net: NetName=VCC Pin=Analog1-2
+Added Pin To Net: NetName=VCC Pin=Analog2-2
+Added Pin To Net: NetName=VCC Pin=DIGITAL-2
+Added Pin To Net: NetName=VCC Pin=LCD-2
+Added Pin To Net: NetName=VCC Pin=PWM-8
+Added Pin To Net: NetName=VCC Pin=T6-3
+Added Pin To Net: NetName=VCC Pin=T7-1
+Added Pin To Net: NetName=VCC Pin=T7-2
+Added Net: Name=VCC
+Added Class: Name=MEGA2560
+Added Room: Name=MEGA2560

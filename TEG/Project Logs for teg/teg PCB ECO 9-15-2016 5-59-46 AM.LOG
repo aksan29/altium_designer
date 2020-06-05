@@ -1,0 +1,18 @@
+Added Component: Designator=a(terminal block)
+Added Component: Designator=b(terminal block)
+Added Pin To Net: NetName=NetD1R_2 Pin=b-2
+Change Net Name : Old Net Name=NetD1R_2 New Net Name=Netb_2
+Added Pin To Net: NetName=Neta_1 Pin=a-1
+Added Pin To Net: NetName=Neta_1 Pin=R1-2
+Added Pin To Net: NetName=Neta_1 Pin=R2-2
+Added Net: Name=Neta_1
+Added Pin To Net: NetName=Neta_2 Pin=a-2
+Added Pin To Net: NetName=Neta_2 Pin=S1-2
+Added Pin To Net: NetName=Neta_2 Pin=S2-2
+Added Net: Name=Neta_2
+Added Pin To Net: NetName=Netb_1 Pin=b-1
+Added Pin To Net: NetName=Netb_1 Pin=T1-2
+Added Pin To Net: NetName=Netb_1 Pin=T2-2
+Added Net: Name=Netb_1
+Added Member To Class: ClassName=teg Member=Component a terminal block 2 pin
+Added Member To Class: ClassName=teg Member=Component b terminal block 2 pin

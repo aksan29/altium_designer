@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=C1RS-1
+Removed Pin From Net: NetName=GND Pin=C1ST-1
+Removed Pin From Net: NetName=GND Pin=C1TR-1
+Removed Pin From Net: NetName=GND Pin=C2RS-1
+Removed Pin From Net: NetName=GND Pin=C2ST-1
+Removed Pin From Net: NetName=GND Pin=C2TR-1
+Removed Pin From Net: NetName=GND Pin=D1RS-1
+Removed Pin From Net: NetName=GND Pin=D1ST-1
+Removed Pin From Net: NetName=GND Pin=D1TR-1
+Removed Pin From Net: NetName=GND Pin=D3RS-1
+Removed Pin From Net: NetName=GND Pin=D3ST-1
+Removed Pin From Net: NetName=GND Pin=D3TR-1
+Removed Pin From Net: NetName=GND Pin=R1RS-1
+Removed Pin From Net: NetName=GND Pin=R1ST-1
+Removed Pin From Net: NetName=GND Pin=R1TR-1
+Change Component Footprint: Designator=L1R Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1RS Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1S Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1ST Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1T Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1TR Old Footprint=DIODE-0.4 New Footprint=AXIAL-0.9
+Added Pin To Net: NetName=NetC1RS_1 Pin=C1RS-1
+Added Pin To Net: NetName=NetC1RS_1 Pin=C2RS-1
+Added Pin To Net: NetName=NetC1RS_1 Pin=D1RS-1
+Added Pin To Net: NetName=NetC1RS_1 Pin=D3RS-1
+Added Pin To Net: NetName=NetC1RS_1 Pin=R1RS-1
+Added Net: Name=NetC1RS_1
+Added Pin To Net: NetName=NetC1ST_1 Pin=C1ST-1
+Added Pin To Net: NetName=NetC1ST_1 Pin=C2ST-1
+Added Pin To Net: NetName=NetC1ST_1 Pin=D1ST-1
+Added Pin To Net: NetName=NetC1ST_1 Pin=D3ST-1
+Added Pin To Net: NetName=NetC1ST_1 Pin=R1ST-1
+Added Net: Name=NetC1ST_1
+Added Pin To Net: NetName=NetC1TR_1 Pin=C1TR-1
+Added Pin To Net: NetName=NetC1TR_1 Pin=C2TR-1
+Added Pin To Net: NetName=NetC1TR_1 Pin=D1TR-1
+Added Pin To Net: NetName=NetC1TR_1 Pin=D3TR-1
+Added Pin To Net: NetName=NetC1TR_1 Pin=R1TR-1
+Added Net: Name=NetC1TR_1

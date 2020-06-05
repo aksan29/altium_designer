@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetLS7486_3 Pin=METERING1-1
+Removed Pin From Net: NetName=NetD6_2 Pin=METERING1-2
+Removed Pin From Net: NetName=NetD7_2 Pin=METERING1-3
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING1-4
+Removed Pin From Net: NetName=NetD1_2 Pin=METERING1-5
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING1-6
+Removed Pin From Net: NetName=NetD9_2 Pin=METERING1-7
+Removed Pin From Net: NetName=VCC Pin=METERING1-8
+Removed Pin From Net: NetName=GND Pin=METERING1-9
+Removed Pin From Net: NetName=GND Pin=METERING1-10
+Removed Pin From Net: NetName=GND Pin=METERING2-1
+Removed Pin From Net: NetName=GND Pin=METERING2-2
+Removed Pin From Net: NetName=VCC Pin=METERING2-3
+Removed Pin From Net: NetName=NetD9_2 Pin=METERING2-4
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING2-5
+Removed Pin From Net: NetName=NetD1_2 Pin=METERING2-6
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING2-7
+Removed Pin From Net: NetName=NetD7_2 Pin=METERING2-8
+Removed Pin From Net: NetName=NetD6_2 Pin=METERING2-9
+Removed Pin From Net: NetName=NetLS7486_3 Pin=METERING2-10
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetLM358_2 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetLM358_6 Pin=R2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R8-2
+Removed Member From Class: ClassName=Sheet2 Member=METERING1
+Removed Member From Class: ClassName=Sheet2 Member=METERING2
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=RPot
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1 New DesignItemId=RPot
+Change Component Footprint: Designator=R1 Old Footprint=RESISTOR - duplicate New Footprint=TRIMPOT
+Change Component Footprint: Designator=R2 Old Footprint=RESISTOR - duplicate New Footprint=TRIMPOT
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=104
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=104
+Added Component: Designator=P?(HDR2X4)
+Added Component: Designator=R9(RESISTOR - duplicate)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=NetC1_1 Pin=P?-3
+Added Pin To Net: NetName=NetACS712_2 Pin=P?-5
+Added Pin To Net: NetName=NetD9_2 Pin=P?-6
+Added Pin To Net: NetName=NetLS7486_3 Pin=P?-7
+Added Pin To Net: NetName=NetLM358_2 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-3
+Added Pin To Net: NetName=NetLM358_6 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R8-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-3
+Added Pin To Net: NetName=NetR2_2 Pin=R9-2
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 4X2
+Added Member To Class: ClassName=Sheet2 Member=Component R9 Res1

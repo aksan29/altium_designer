@@ -1,0 +1,101 @@
+Added Component: Designator=analog(header female 6x1)
+Added Component: Designator=digi1(header female 8x1)
+Added Component: Designator=digi2(header female 10x1)
+Added Component: Designator=i2c(HDR1X6)
+Added Component: Designator=lcd1(HDR1X6)
+Added Component: Designator=lcd2(HDR1X6)
+Added Component: Designator=power(header female 8x1)
+Added Component: Designator=push(HDR1X10)
+Added Component: Designator=relay(HDR1X4)
+Added Component: Designator=trimpot(TRIMPOT)
+Added Pin To Net: NetName=GND Pin=digi2-7
+Added Pin To Net: NetName=GND Pin=i2c-1
+Added Pin To Net: NetName=GND Pin=lcd1-1
+Added Pin To Net: NetName=GND Pin=lcd1-5
+Added Pin To Net: NetName=GND Pin=lcd2-6
+Added Pin To Net: NetName=GND Pin=power-6
+Added Pin To Net: NetName=GND Pin=power-7
+Added Pin To Net: NetName=GND Pin=push-1
+Added Pin To Net: NetName=GND Pin=trimpot-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Netanalog_1 Pin=analog-1
+Added Pin To Net: NetName=Netanalog_1 Pin=relay-1
+Added Net: Name=Netanalog_1
+Added Pin To Net: NetName=Netanalog_2 Pin=analog-2
+Added Pin To Net: NetName=Netanalog_2 Pin=relay-2
+Added Net: Name=Netanalog_2
+Added Pin To Net: NetName=Netanalog_3 Pin=analog-3
+Added Pin To Net: NetName=Netanalog_3 Pin=relay-3
+Added Net: Name=Netanalog_3
+Added Pin To Net: NetName=Netanalog_4 Pin=analog-4
+Added Pin To Net: NetName=Netanalog_4 Pin=relay-4
+Added Net: Name=Netanalog_4
+Added Pin To Net: NetName=Netanalog_5 Pin=analog-5
+Added Pin To Net: NetName=Netanalog_5 Pin=i2c-3
+Added Net: Name=Netanalog_5
+Added Pin To Net: NetName=Netanalog_6 Pin=analog-6
+Added Pin To Net: NetName=Netanalog_6 Pin=i2c-4
+Added Net: Name=Netanalog_6
+Added Pin To Net: NetName=Netdigi1_1 Pin=digi1-1
+Added Pin To Net: NetName=Netdigi1_1 Pin=push-3
+Added Net: Name=Netdigi1_1
+Added Pin To Net: NetName=Netdigi1_2 Pin=digi1-2
+Added Pin To Net: NetName=Netdigi1_2 Pin=push-4
+Added Net: Name=Netdigi1_2
+Added Pin To Net: NetName=Netdigi1_3 Pin=digi1-3
+Added Pin To Net: NetName=Netdigi1_3 Pin=push-5
+Added Net: Name=Netdigi1_3
+Added Pin To Net: NetName=Netdigi1_4 Pin=digi1-4
+Added Pin To Net: NetName=Netdigi1_4 Pin=push-6
+Added Net: Name=Netdigi1_4
+Added Pin To Net: NetName=Netdigi1_5 Pin=digi1-5
+Added Pin To Net: NetName=Netdigi1_5 Pin=digi1-6
+Added Pin To Net: NetName=Netdigi1_5 Pin=push-7
+Added Pin To Net: NetName=Netdigi1_5 Pin=push-8
+Added Net: Name=Netdigi1_5
+Added Pin To Net: NetName=Netdigi1_7 Pin=digi1-7
+Added Pin To Net: NetName=Netdigi1_7 Pin=push-9
+Added Net: Name=Netdigi1_7
+Added Pin To Net: NetName=Netdigi1_8 Pin=digi1-8
+Added Pin To Net: NetName=Netdigi1_8 Pin=push-10
+Added Net: Name=Netdigi1_8
+Added Pin To Net: NetName=Netdigi2_1 Pin=digi2-1
+Added Pin To Net: NetName=Netdigi2_1 Pin=lcd2-4
+Added Net: Name=Netdigi2_1
+Added Pin To Net: NetName=Netdigi2_2 Pin=digi2-2
+Added Pin To Net: NetName=Netdigi2_2 Pin=lcd2-3
+Added Net: Name=Netdigi2_2
+Added Pin To Net: NetName=Netdigi2_3 Pin=digi2-3
+Added Pin To Net: NetName=Netdigi2_3 Pin=lcd2-2
+Added Net: Name=Netdigi2_3
+Added Pin To Net: NetName=Netdigi2_4 Pin=digi2-4
+Added Pin To Net: NetName=Netdigi2_4 Pin=lcd2-1
+Added Net: Name=Netdigi2_4
+Added Pin To Net: NetName=Netdigi2_5 Pin=digi2-5
+Added Pin To Net: NetName=Netdigi2_5 Pin=lcd1-6
+Added Net: Name=Netdigi2_5
+Added Pin To Net: NetName=Netdigi2_6 Pin=digi2-6
+Added Pin To Net: NetName=Netdigi2_6 Pin=lcd1-4
+Added Net: Name=Netdigi2_6
+Added Pin To Net: NetName=Netdigi2_8 Pin=digi2-8
+Added Net: Name=Netdigi2_8
+Added Pin To Net: NetName=Netlcd1_3 Pin=lcd1-3
+Added Pin To Net: NetName=Netlcd1_3 Pin=trimpot-2
+Added Net: Name=Netlcd1_3
+Added Pin To Net: NetName=Netpower_2 Pin=power-2
+Added Net: Name=Netpower_2
+Added Pin To Net: NetName=Netpower_3 Pin=power-3
+Added Net: Name=Netpower_3
+Added Pin To Net: NetName=Netpower_4 Pin=power-4
+Added Net: Name=Netpower_4
+Added Pin To Net: NetName=Netpower_8 Pin=power-8
+Added Net: Name=Netpower_8
+Added Pin To Net: NetName=VCC Pin=i2c-2
+Added Pin To Net: NetName=VCC Pin=lcd1-2
+Added Pin To Net: NetName=VCC Pin=lcd2-5
+Added Pin To Net: NetName=VCC Pin=power-5
+Added Pin To Net: NetName=VCC Pin=push-2
+Added Pin To Net: NetName=VCC Pin=trimpot-1
+Added Net: Name=VCC
+Added Class: Name=ita
+Added Room: Name=ita

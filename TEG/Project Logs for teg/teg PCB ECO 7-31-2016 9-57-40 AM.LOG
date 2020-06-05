@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC2R_2 Pin=C2R-2
+Removed Pin From Net: NetName=NetC2S_2 Pin=C2S-2
+Removed Pin From Net: NetName=NetC2T_2 Pin=C2T-2
+Removed Pin From Net: NetName=NetC2R_2 Pin=L1R-2
+Removed Pin From Net: NetName=NetC2S_2 Pin=L1S-2
+Removed Pin From Net: NetName=NetC2T_2 Pin=L1T-2
+Removed Pin From Net: NetName=NetC2R_2 Pin=R1R-2
+Removed Pin From Net: NetName=NetC2S_2 Pin=R1S-2
+Removed Pin From Net: NetName=NetC2T_2 Pin=R1T-2
+Added Pin To Net: NetName=NetC2RS_2 Pin=analog1-4
+Added Pin To Net: NetName=NetC2ST_2 Pin=analog1-6
+Added Pin To Net: NetName=NetC2TR_2 Pin=analog1-8
+Added Pin To Net: NetName=Netanalog1_3 Pin=C2R-2
+Added Pin To Net: NetName=Netanalog1_5 Pin=C2S-2
+Added Pin To Net: NetName=Netanalog1_7 Pin=C2T-2
+Added Pin To Net: NetName=Netanalog1_3 Pin=L1R-2
+Added Pin To Net: NetName=Netanalog1_5 Pin=L1S-2
+Added Pin To Net: NetName=Netanalog1_7 Pin=L1T-2
+Added Pin To Net: NetName=Netanalog1_3 Pin=R1R-2
+Added Pin To Net: NetName=Netanalog1_5 Pin=R1S-2
+Added Pin To Net: NetName=Netanalog1_7 Pin=R1T-2
+Change Net Name : Old Net Name=NetC2R_2 New Net Name=NetD1RS_2
+Change Net Name : Old Net Name=NetC2RS_2 New Net Name=Netanalog1_4
+Change Net Name : Old Net Name=NetC2S_2 New Net Name=NetD1ST_2
+Change Net Name : Old Net Name=NetC2ST_2 New Net Name=Netanalog1_6
+Change Net Name : Old Net Name=NetC2T_2 New Net Name=NetD1TR_2
+Change Net Name : Old Net Name=NetC2TR_2 New Net Name=Netanalog1_8

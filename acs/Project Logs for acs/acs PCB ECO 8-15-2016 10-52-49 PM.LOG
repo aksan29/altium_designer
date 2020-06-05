@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Netter phi_5 Pin=uno analog-4
+Added Member To Class: ClassName=acs Member=Component acs1 header 3x1
+Added Member To Class: ClassName=acs Member=Component C1 cap 2200 uf
+Added Member To Class: ClassName=acs Member=Component C2 cap 2200uf

@@ -1,0 +1,50 @@
+Added Component: Designator=i2c(HEADER 1X4L)
+Added Component: Designator=relay(HEADER 1X6 L)
+Added Component: Designator=vinn1(header 3x1)
+Added Component: Designator=vinn2(header 3x1)
+Added Component: Designator=vin(header 2)
+Added Pin To Net: NetName=VCC Pin=i2c-3
+Added Pin To Net: NetName=GND Pin=i2c-4
+Added Pin To Net: NetName=VCC Pin=POWER-4
+Added Pin To Net: NetName=GND Pin=relay-1
+Added Pin To Net: NetName=VCC Pin=relay-6
+Added Pin To Net: NetName=GND Pin=vin-1
+Added Pin To Net: NetName=Netanalog 1_4 Pin=analog 1-4
+Added Pin To Net: NetName=Netanalog 1_4 Pin=Analog t 1-5
+Added Net: Name=Netanalog 1_4
+Added Pin To Net: NetName=Netanalog 1_6 Pin=analog 1-6
+Added Pin To Net: NetName=Netanalog 1_6 Pin=Analog t 1-6
+Added Net: Name=Netanalog 1_6
+Added Pin To Net: NetName=Netanalog 1_8 Pin=analog 1-8
+Added Pin To Net: NetName=Netanalog 1_8 Pin=Analog t 1-7
+Added Net: Name=Netanalog 1_8
+Added Pin To Net: NetName=Netanalog 1_10 Pin=analog 1-10
+Added Pin To Net: NetName=Netanalog 1_10 Pin=Analog t 1-8
+Added Net: Name=Netanalog 1_10
+Added Pin To Net: NetName=NetCOMMS_1 Pin=COMMS-1
+Added Net: Name=NetCOMMS_1
+Added Pin To Net: NetName=NetCOMMS_2 Pin=COMMS-2
+Added Pin To Net: NetName=NetCOMMS_2 Pin=i2c-2
+Added Net: Name=NetCOMMS_2
+Added Net: Name=NetPWM_L_3
+Added Pin To Net: NetName=NetPWM_L_4 Pin=relay-2
+Added Net: Name=NetPWM_L_4
+Added Pin To Net: NetName=NetPWM_L_5 Pin=relay-3
+Added Net: Name=NetPWM_L_5
+Added Net: Name=NetPWM_L_6
+Added Pin To Net: NetName=NetPWM_L_7 Pin=relay-4
+Added Net: Name=NetPWM_L_7
+Added Pin To Net: NetName=NetPWM_L_8 Pin=relay-5
+Added Net: Name=NetPWM_L_8
+Added Pin To Net: NetName=Netvin_2 Pin=vin-2
+Added Pin To Net: NetName=Netvin_2 Pin=vinn1-1
+Added Pin To Net: NetName=Netvin_2 Pin=vinn2-1
+Added Net: Name=Netvin_2
+Added Pin To Net: NetName=Netvinn1_2 Pin=vinn1-2
+Added Pin To Net: NetName=Netvinn1_2 Pin=vinn2-2
+Added Net: Name=Netvinn1_2
+Added Member To Class: ClassName=mega module Member=Component i2c HEADER 1X4L
+Added Member To Class: ClassName=mega module Member=Component relay HEADER 1X6L
+Added Member To Class: ClassName=mega module Member=Component vinn1 header 3x1
+Added Member To Class: ClassName=mega module Member=Component vinn2 header 3x1
+Added Member To Class: ClassName=mega module Member=Component vin header 2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD1RS_2 Pin=R/S-1
+Removed Pin From Net: NetName=NetD1ST_2 Pin=R/S-2
+Removed Pin From Net: NetName=NetD1TR_2 Pin=T/N-1
+Added Pin To Net: NetName=NetR1_2 Pin=R/S-1
+Added Pin To Net: NetName=NetT1_2 Pin=T/N-1
+Added Pin To Net: NetName=NetR/S_2 Pin=R/S-2
+Added Pin To Net: NetName=NetR/S_2 Pin=S1-2
+Added Pin To Net: NetName=NetR/S_2 Pin=S2-2
+Added Net: Name=NetR/S_2

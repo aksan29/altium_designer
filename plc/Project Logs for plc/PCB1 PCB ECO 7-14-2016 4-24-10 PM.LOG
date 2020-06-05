@@ -1,0 +1,41 @@
+Added Component: Designator=F1(PIN-W2/E2.8)
+Added Component: Designator=pin(HDR2X7_CEN)
+Added Component: Designator=T1(terminal block 3 pin)
+Added Component: Designator=T2(terminal block 3 pin)
+Added Component: Designator=T3(terminal block)
+Added Pin To Net: NetName=GND Pin=pin-6
+Added Pin To Net: NetName=GND Pin=pin-13
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=T3-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=T1-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=Netpin_1 Pin=pin-1
+Added Pin To Net: NetName=Netpin_1 Pin=pin-8
+Added Net: Name=Netpin_1
+Added Pin To Net: NetName=Netpin_2 Pin=pin-2
+Added Pin To Net: NetName=Netpin_2 Pin=pin-9
+Added Net: Name=Netpin_2
+Added Pin To Net: NetName=Netpin_3 Pin=pin-3
+Added Pin To Net: NetName=Netpin_3 Pin=pin-10
+Added Net: Name=Netpin_3
+Added Pin To Net: NetName=Netpin_4 Pin=pin-4
+Added Pin To Net: NetName=Netpin_4 Pin=pin-11
+Added Net: Name=Netpin_4
+Added Pin To Net: NetName=Netpin_5 Pin=pin-5
+Added Pin To Net: NetName=Netpin_5 Pin=pin-12
+Added Pin To Net: NetName=Netpin_5 Pin=T2-1
+Added Net: Name=Netpin_5
+Added Pin To Net: NetName=Netpin_7 Pin=pin-7
+Added Pin To Net: NetName=Netpin_7 Pin=pin-14
+Added Pin To Net: NetName=Netpin_7 Pin=T1-3
+Added Net: Name=Netpin_7
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=T3-2
+Added Net: Name=NetT1_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

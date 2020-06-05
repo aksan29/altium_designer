@@ -1,0 +1,138 @@
+Added Component: Designator=*(terminal block)
+Added Component: Designator=74LS86(DIP-14)
+Added Component: Designator=7809(7805)
+Added Component: Designator=7805 3(7805)
+Added Component: Designator=C1(cap 1000uf)
+Added Component: Designator=com(HEADER 1X4L)
+Added Component: Designator=D1(diode)
+Added Component: Designator=D2(diode)
+Added Component: Designator=D3(diode)
+Added Component: Designator=D4(diode)
+Added Component: Designator=LM339(DIP-14)
+Added Component: Designator=OPTO 1(DIP-6)
+Added Component: Designator=OPTO 2(DIP-6)
+Added Component: Designator=P1(HEADER 1X4L)
+Added Component: Designator=P2(header 3x1)
+Added Component: Designator=plc(header 7)
+Added Component: Designator=R1(RESISTOR - duplicate)
+Added Component: Designator=R2(RESISTOR - duplicate)
+Added Component: Designator=R3(RESISTOR - duplicate)
+Added Component: Designator=R4(RESISTOR - duplicate)
+Added Component: Designator=R5(RESISTOR - duplicate)
+Added Component: Designator=R6(RESISTOR - duplicate)
+Added Component: Designator=R7(RESISTOR - duplicate)
+Added Component: Designator=R8(RESISTOR - duplicate)
+Added Component: Designator=R9(RESISTOR - duplicate)
+Added Component: Designator=sensor(HEADER 2X5)
+Added Component: Designator=vin(terminal block)
+Added Pin To Net: NetName=GND Pin=74LS86-7
+Added Pin To Net: NetName=GND Pin=7809-2
+Added Pin To Net: NetName=GND Pin=7805 3-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=com-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=LM339-7
+Added Pin To Net: NetName=GND Pin=LM339-12
+Added Pin To Net: NetName=GND Pin=OPTO 1-2
+Added Pin To Net: NetName=GND Pin=OPTO 1-4
+Added Pin To Net: NetName=GND Pin=OPTO 2-2
+Added Pin To Net: NetName=GND Pin=OPTO 2-4
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=plc-6
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=sensor-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net74LS86_1 Pin=74LS86-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=R5-2
+Added Pin To Net: NetName=Net74LS86_1 Pin=R7-1
+Added Net: Name=Net74LS86_1
+Added Pin To Net: NetName=Net74LS86_2 Pin=74LS86-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=R6-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=R8-1
+Added Net: Name=Net74LS86_2
+Added Pin To Net: NetName=Net74LS86_3 Pin=74LS86-3
+Added Pin To Net: NetName=Net74LS86_3 Pin=sensor-10
+Added Net: Name=Net74LS86_3
+Added Pin To Net: NetName=Net7809_3 Pin=7809-3
+Added Net: Name=Net7809_3
+Added Pin To Net: NetName=Net7805 3_1 Pin=7805 3-1
+Added Pin To Net: NetName=Net7805 3_1 Pin=vin-2
+Added Net: Name=Net7805 3_1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=7809-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-2
+Added Pin To Net: NetName=NetC1_2 Pin=D4-2
+Added Pin To Net: NetName=NetC1_2 Pin=R9-2
+Added Pin To Net: NetName=NetC1_2 Pin=sensor-6
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=Netcom_3 Pin=com-3
+Added Pin To Net: NetName=Netcom_3 Pin=plc-4
+Added Net: Name=Netcom_3
+Added Pin To Net: NetName=Netcom_4 Pin=com-4
+Added Pin To Net: NetName=Netcom_4 Pin=plc-3
+Added Net: Name=Netcom_4
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=OPTO 1-1
+Added Pin To Net: NetName=NetD1_2 Pin=P1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetLM339_1 Pin=LM339-1
+Added Pin To Net: NetName=NetLM339_1 Pin=R7-2
+Added Net: Name=NetLM339_1
+Added Pin To Net: NetName=NetLM339_2 Pin=LM339-2
+Added Pin To Net: NetName=NetLM339_2 Pin=R8-2
+Added Net: Name=NetLM339_2
+Added Pin To Net: NetName=NetLM339_4 Pin=LM339-4
+Added Pin To Net: NetName=NetLM339_4 Pin=R4-2
+Added Net: Name=NetLM339_4
+Added Pin To Net: NetName=NetLM339_5 Pin=LM339-5
+Added Pin To Net: NetName=NetLM339_5 Pin=OPTO 1-5
+Added Pin To Net: NetName=NetLM339_5 Pin=R1-1
+Added Net: Name=NetLM339_5
+Added Pin To Net: NetName=NetLM339_6 Pin=LM339-6
+Added Pin To Net: NetName=NetLM339_6 Pin=R3-2
+Added Net: Name=NetLM339_6
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=OPTO 2-1
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=P2-2
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=sensor-8
+Added Net: Name=NetOPTO 2_1
+Added Pin To Net: NetName=NetOPTO 2_5 Pin=OPTO 2-5
+Added Pin To Net: NetName=NetOPTO 2_5 Pin=R2-1
+Added Net: Name=NetOPTO 2_5
+Added Pin To Net: NetName=Netplc_1 Pin=plc-1
+Added Net: Name=Netplc_1
+Added Pin To Net: NetName=Netplc_2 Pin=plc-2
+Added Net: Name=Netplc_2
+Added Pin To Net: NetName=Netplc_7 Pin=plc-7
+Added Net: Name=Netplc_7
+Added Pin To Net: NetName=Netsensor_4 Pin=sensor-4
+Added Net: Name=Netsensor_4
+Added Pin To Net: NetName=Netvin_1 Pin=vin-1
+Added Net: Name=Netvin_1
+Added Pin To Net: NetName=VCC Pin=74LS86-14
+Added Pin To Net: NetName=VCC Pin=7805 3-3
+Added Pin To Net: NetName=VCC Pin=com-2
+Added Pin To Net: NetName=VCC Pin=LM339-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=plc-5
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=sensor-2
+Added Net: Name=VCC
+Added Class: Name=Unitsensor
+Added Room: Name=Unitsensor

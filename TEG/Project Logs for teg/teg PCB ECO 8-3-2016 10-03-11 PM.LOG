@@ -1,0 +1,4 @@
+Added Component: Designator=D1R(diode)
+Added Pin To Net: NetName=GND Pin=D1R-1
+Added Pin To Net: NetName=NetD1R_2 Pin=D1R-2
+Added Member To Class: ClassName=teg Member=Component D1R Diode 1N4150

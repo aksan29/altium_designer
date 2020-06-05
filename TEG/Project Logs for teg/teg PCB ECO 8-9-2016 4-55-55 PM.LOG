@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=Netanalog_4 Pin=analog-4
+Added Component: Designator=analog(HDR1X4)
+Added Component: Designator=C1R(cap 1000uf)
+Added Component: Designator=C1S(cap 1000uf)
+Added Component: Designator=C1T(cap 1000uf)
+Added Component: Designator=D1R(diode)
+Added Component: Designator=D1S(diode)
+Added Component: Designator=D1T(diode)
+Added Component: Designator=D2R(diode)
+Added Component: Designator=D2S(diode)
+Added Component: Designator=D2T(diode)
+Added Component: Designator=D3R(diode)
+Added Component: Designator=D3S(diode)
+Added Component: Designator=D3T(diode)
+Added Component: Designator=D4R(diode)
+Added Component: Designator=D4S(diode)
+Added Component: Designator=D4T(diode)
+Added Component: Designator=phi(header 2)
+Added Component: Designator=R1r(RESISTOR - duplicate)
+Added Component: Designator=r1s(RESISTOR - duplicate)
+Added Component: Designator=R1(AXIAL-0.9)
+Added Component: Designator=r1t(RESISTOR - duplicate)
+Added Component: Designator=R3(AXIAL-0.9)
+Added Component: Designator=R4(AXIAL-0.9)
+Added Component: Designator=S1(AXIAL-0.9)
+Added Component: Designator=S3(AXIAL-0.9)
+Added Component: Designator=S4(AXIAL-0.9)
+Added Component: Designator=T1(AXIAL-0.9)
+Added Component: Designator=T3(AXIAL-0.9)
+Added Component: Designator=T4(AXIAL-0.9)
+Added Pin To Net: NetName=GND Pin=analog-1
+Added Pin To Net: NetName=Netanalog_2 Pin=analog-2
+Added Pin To Net: NetName=Netanalog_3 Pin=analog-3
+Added Pin To Net: NetName=GND Pin=C1R-1
+Added Pin To Net: NetName=Netanalog_2 Pin=C1R-2
+Added Pin To Net: NetName=GND Pin=C1S-1
+Added Pin To Net: NetName=Netanalog_3 Pin=C1S-2
+Added Pin To Net: NetName=GND Pin=C1T-1
+Added Pin To Net: NetName=GND Pin=D1R-1
+Added Pin To Net: NetName=GND Pin=D1S-1
+Added Pin To Net: NetName=GND Pin=D1T-1
+Added Pin To Net: NetName=Netanalog_2 Pin=D2R-2
+Added Pin To Net: NetName=Netanalog_3 Pin=D2S-2
+Added Pin To Net: NetName=GND Pin=D3R-1
+Added Pin To Net: NetName=GND Pin=D3S-1
+Added Pin To Net: NetName=GND Pin=D3T-1
+Added Pin To Net: NetName=Netanalog_2 Pin=D4R-2
+Added Pin To Net: NetName=Netanalog_3 Pin=D4S-2
+Added Pin To Net: NetName=NetD1R_2 Pin=phi-1
+Added Pin To Net: NetName=NetD3R_2 Pin=phi-2
+Added Pin To Net: NetName=GND Pin=R1r-1
+Added Pin To Net: NetName=Netanalog_2 Pin=R1r-2
+Added Pin To Net: NetName=GND Pin=r1s-1
+Added Pin To Net: NetName=Netanalog_3 Pin=r1s-2
+Added Pin To Net: NetName=GND Pin=r1t-1
+Change Net Name : Old Net Name=Netanalog_4 New Net Name=NetC1T_2
+Added Pin To Net: NetName=Netanalog_4 Pin=analog-4
+Added Pin To Net: NetName=Netanalog_4 Pin=analog-4
+Added Net: Name=Netanalog_4
+Added Pin To Net: NetName=NetD1S_2 Pin=D1S-2
+Added Pin To Net: NetName=NetD1S_2 Pin=D2S-1
+Added Pin To Net: NetName=NetD1S_2 Pin=S1-1
+Added Pin To Net: NetName=NetD1S_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1S_2 Pin=S4-2
+Added Net: Name=NetD1S_2
+Added Pin To Net: NetName=NetD1T_2 Pin=D1T-2
+Added Pin To Net: NetName=NetD1T_2 Pin=D2T-1
+Added Pin To Net: NetName=NetD1T_2 Pin=T1-1
+Added Pin To Net: NetName=NetD1T_2 Pin=T3-2
+Added Pin To Net: NetName=NetD1T_2 Pin=T4-2
+Added Net: Name=NetD1T_2
+Added Class: Name=teg3
+Added Member To Class: ClassName=teg Member=Component phi header 2
+Added Room: Name=teg3

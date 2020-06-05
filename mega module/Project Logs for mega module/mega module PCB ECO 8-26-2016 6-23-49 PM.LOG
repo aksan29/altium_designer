@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=analog 1 Old Footprint=HEADER 2X5L New Footprint=HEADER 2X5
+Change Component Footprint: Designator=analog 2 Old Footprint=HEADER 2X5L New Footprint=HEADER 2X5
+Added Component: Designator=card(HDR2X8)
+Added Pin To Net: NetName=GND Pin=card-2
+Added Pin To Net: NetName=VCC Pin=card-12
+Added Pin To Net: NetName=GND Pin=card-16
+Added Pin To Net: NetName=Netcard_4 Pin=card-4
+Added Pin To Net: NetName=Netcard_4 Pin=DIGITAL-31
+Added Net: Name=Netcard_4
+Added Pin To Net: NetName=Netcard_6 Pin=card-6
+Added Pin To Net: NetName=Netcard_6 Pin=DIGITAL-33
+Added Net: Name=Netcard_6
+Added Pin To Net: NetName=Netcard_8 Pin=card-8
+Added Pin To Net: NetName=Netcard_8 Pin=DIGITAL-32
+Added Net: Name=Netcard_8
+Added Pin To Net: NetName=Netcard_10 Pin=card-10
+Added Pin To Net: NetName=Netcard_10 Pin=DIGITAL-34
+Added Net: Name=Netcard_10
+Added Pin To Net: NetName=Netcard_14 Pin=card-14
+Added Pin To Net: NetName=Netcard_14 Pin=POWER-5
+Added Net: Name=Netcard_14
+Added Member To Class: ClassName=mega module Member=Component card Header 8X2

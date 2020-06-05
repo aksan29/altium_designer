@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetACS1_2 Pin=analog 1-10
+Added Pin To Net: NetName=NetACS1_2 Pin=analog 1-4

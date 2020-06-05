@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetDIGITAL_3 Pin=DIGITAL-3
+Added Pin To Net: NetName=NetDIGITAL_3 Pin=pus-6
+Added Net: Name=NetDIGITAL_3
+Added Pin To Net: NetName=NetDIGITAL_5 Pin=DIGITAL-5
+Added Pin To Net: NetName=NetDIGITAL_5 Pin=pus-7
+Added Net: Name=NetDIGITAL_5
+Added Pin To Net: NetName=NetDIGITAL_7 Pin=DIGITAL-7
+Added Pin To Net: NetName=NetDIGITAL_7 Pin=pus-8
+Added Net: Name=NetDIGITAL_7
+Added Pin To Net: NetName=NetDIGITAL_9 Pin=DIGITAL-9
+Added Pin To Net: NetName=NetDIGITAL_9 Pin=pus-9
+Added Net: Name=NetDIGITAL_9

@@ -1,0 +1,32 @@
+Added Component: Designator=pus(HDR1X10)
+Added Pin To Net: NetName=VCC Pin=DIGITAL-1
+Added Pin To Net: NetName=VCC Pin=DIGITAL-2
+Added Pin To Net: NetName=GND Pin=DIGITAL-35
+Added Pin To Net: NetName=GND Pin=DIGITAL-36
+Added Pin To Net: NetName=VCC Pin=pus-1
+Added Pin To Net: NetName=GND Pin=pus-10
+Added Pin To Net: NetName=NetDIGITAL_4 Pin=DIGITAL-4
+Added Pin To Net: NetName=NetDIGITAL_4 Pin=pus-2
+Added Net: Name=NetDIGITAL_4
+Added Pin To Net: NetName=NetDIGITAL_6 Pin=DIGITAL-6
+Added Pin To Net: NetName=NetDIGITAL_6 Pin=pus-3
+Added Net: Name=NetDIGITAL_6
+Added Pin To Net: NetName=NetDIGITAL_8 Pin=DIGITAL-8
+Added Pin To Net: NetName=NetDIGITAL_8 Pin=pus-4
+Added Net: Name=NetDIGITAL_8
+Added Pin To Net: NetName=NetDIGITAL_10 Pin=DIGITAL-10
+Added Pin To Net: NetName=NetDIGITAL_10 Pin=pus-5
+Added Net: Name=NetDIGITAL_10
+Added Pin To Net: NetName=NetDIGITAL_12 Pin=DIGITAL-12
+Added Pin To Net: NetName=NetDIGITAL_12 Pin=pus-6
+Added Net: Name=NetDIGITAL_12
+Added Pin To Net: NetName=NetDIGITAL_14 Pin=DIGITAL-14
+Added Pin To Net: NetName=NetDIGITAL_14 Pin=pus-7
+Added Net: Name=NetDIGITAL_14
+Added Pin To Net: NetName=NetDIGITAL_16 Pin=DIGITAL-16
+Added Pin To Net: NetName=NetDIGITAL_16 Pin=pus-8
+Added Net: Name=NetDIGITAL_16
+Added Pin To Net: NetName=NetDIGITAL_18 Pin=DIGITAL-18
+Added Pin To Net: NetName=NetDIGITAL_18 Pin=pus-9
+Added Net: Name=NetDIGITAL_18
+Added Member To Class: ClassName=mega module Member=Component pus Header 10

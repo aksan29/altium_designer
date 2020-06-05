@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=arus-1
+Removed Pin From Net: NetName=GND Pin=phi-2
+Removed Pin From Net: NetName=GND Pin=tegangan-1
+Removed Pin From Net: NetName=NetOPTO 2_1 Pin=tegangan-2
+Removed Member From Class: ClassName=phi Member=arus
+Removed Member From Class: ClassName=phi Member=tegangan
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=teg(HDR1X4)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Pin To Net: NetName=GND Pin=teg-1
+Added Pin To Net: NetName=GND Pin=teg-2
+Added Pin To Net: NetName=VCC Pin=teg-4
+Added Pin To Net: NetName=NetOPTO 1_1 Pin=OPTO 1-1
+Added Pin To Net: NetName=NetOPTO 1_1 Pin=teg-3
+Added Net: Name=NetOPTO 1_1
+Added Member To Class: ClassName=phi Member=Component P? Header 3
+Added Member To Class: ClassName=phi Member=Component teg Header 4

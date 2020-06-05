@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=P1-3
+Removed Pin From Net: NetName=VCC Pin=P1-4
+Removed Member From Class: ClassName=Unitsensor Member=P1
+Change Component Designator: OldDesignator=P2 NewDesignator=Ta
+Added Component: Designator=tV(HEADER 1X4L)
+Added Pin To Net: NetName=GND Pin=tV-1
+Added Pin To Net: NetName=GND Pin=tV-2
+Added Pin To Net: NetName=NetD1_2 Pin=tV-3
+Added Pin To Net: NetName=VCC Pin=tV-4
+Added Member To Class: ClassName=Unitsensor Member=Component tV tegangan

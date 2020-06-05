@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetD6_2 Pin=METERING-2
+Removed Pin From Net: NetName=NetD7_2 Pin=METERING-3
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING-4
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-5
+Removed Pin From Net: NetName=NetLS7486_3 Pin=OUT SENSOR 1-1
+Removed Pin From Net: NetName=NetD6_2 Pin=OUT SENSOR 1-2
+Removed Pin From Net: NetName=NetD7_2 Pin=OUT SENSOR 1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=OUT SENSOR 1-4
+Removed Pin From Net: NetName=NetACS712_2 Pin=OUT SENSOR 1-5
+Removed Member From Class: ClassName=Sheet2 Member=OUT SENSOR 1
+Change Component DesignItemId : Designator=METERING Old DesignItemId=Header 5 New DesignItemId=Header 5X2
+Change Component Footprint: Designator=METERING Old Footprint=HDR1X5 New Footprint=HEADER 2X5
+Change Component Comment : Designator=METERING Old Comment=Header 5 New Comment=Header 5X2
+Added Pin To Net: NetName=NetLS7486_3 Pin=METERING-2
+Added Pin To Net: NetName=NetD6_2 Pin=METERING-3
+Added Pin To Net: NetName=NetD6_2 Pin=METERING-4
+Added Pin To Net: NetName=NetD7_2 Pin=METERING-5
+Added Pin To Net: NetName=NetD7_2 Pin=METERING-6
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING-7
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING-8
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-9
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-10
+Added Member To Class: ClassName=Sheet2 Member=Component D5 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D7 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res1

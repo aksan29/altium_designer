@@ -1,0 +1,63 @@
+Added Component: Designator=R1(AXIAL-0.9)
+Added Component: Designator=R2(AXIAL-0.9)
+Added Component: Designator=R3(AXIAL-0.9)
+Added Component: Designator=R4(AXIAL-0.9)
+Added Component: Designator=R5(AXIAL-0.9)
+Added Component: Designator=S1(AXIAL-0.9)
+Added Component: Designator=S2(AXIAL-0.9)
+Added Component: Designator=S3(AXIAL-0.9)
+Added Component: Designator=S4(AXIAL-0.9)
+Added Component: Designator=S5(AXIAL-0.9)
+Added Component: Designator=T1(AXIAL-0.9)
+Added Component: Designator=T2(AXIAL-0.9)
+Added Component: Designator=T3(AXIAL-0.9)
+Added Component: Designator=T4(AXIAL-0.9)
+Added Component: Designator=T5(AXIAL-0.9)
+Added Pin To Net: NetName=NetD1RS_2 Pin=R1-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R2-1
+Added Pin To Net: NetName=NetD1R_2 Pin=R3-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=R4-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=R5-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R5-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=S1-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S2-1
+Added Pin To Net: NetName=NetD1R_2 Pin=S3-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=S4-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=S5-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S5-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=T1-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T2-1
+Added Pin To Net: NetName=NetD1R_2 Pin=T3-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=T4-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=T5-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T5-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_2 Pin=S2-2
+Added Net: Name=NetS1_2
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=T2-2
+Added Net: Name=NetT1_2
+Added Member To Class: ClassName=teg Member=Component R1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R5 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S5 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T5 Inductor Iron

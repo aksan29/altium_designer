@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=acs2-1
+Removed Pin From Net: NetName=VCC Pin=acs2-3
+Removed Pin From Net: NetName=GND Pin=acs3-1
+Removed Pin From Net: NetName=VCC Pin=acs3-3
+Removed Pin From Net: NetName=Netacs1_2 Pin=analog1-1
+Removed Pin From Net: NetName=GND Pin=vin-1
+Removed Pin From Net: NetName=VCC Pin=vin-2
+Removed Member From Class: ClassName=acs Member=acs2
+Removed Member From Class: ClassName=acs Member=acs3
+Removed Member From Class: ClassName=acs Member=analog1
+Removed Member From Class: ClassName=acs Member=vin
+Added Component: Designator=C1(cap 1000uf)
+Added Component: Designator=C2(cap 1000uf)
+Added Component: Designator=D1(DO-41)
+Added Component: Designator=D2(DO-41)
+Added Component: Designator=D3(DO-41)
+Added Component: Designator=D4(DO-41)
+Added Component: Designator=DF1(diode)
+Added Component: Designator=L1(RESISTOR - duplicate)
+Added Component: Designator=RF1(RESISTOR - duplicate)
+Added Component: Designator=RF2(RESISTOR - duplicate)
+Added Component: Designator=RT1(RESISTOR - duplicate)
+Added Component: Designator=ter phi(HDR1X5)
+Added Component: Designator=trafo(terminal block)
+Added Component: Designator=uno analog(HDR2X4)
+Added Component: Designator=zmpt(HDR1X4)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=RT1-1
+Added Pin To Net: NetName=GND Pin=ter phi-1
+Added Pin To Net: NetName=VCC Pin=ter phi-2
+Added Pin To Net: NetName=Netacs1_2 Pin=ter phi-3
+Added Pin To Net: NetName=GND Pin=uno analog-1
+Added Pin To Net: NetName=VCC Pin=uno analog-2
+Added Pin To Net: NetName=Netacs1_2 Pin=uno analog-3
+Added Pin To Net: NetName=VCC Pin=zmpt-1
+Added Pin To Net: NetName=GND Pin=zmpt-3
+Added Pin To Net: NetName=GND Pin=zmpt-4
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-2
+Added Pin To Net: NetName=NetC1_2 Pin=D4-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Pin To Net: NetName=NetC2_2 Pin=RT1-2
+Added Pin To Net: NetName=NetC2_2 Pin=uno analog-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=ter phi-4
+Added Pin To Net: NetName=NetD1_2 Pin=zmpt-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetDF1_1 Pin=DF1-1
+Added Pin To Net: NetName=NetDF1_1 Pin=RF1-1
+Added Pin To Net: NetName=NetDF1_1 Pin=RF2-2
+Added Net: Name=NetDF1_1
+Added Pin To Net: NetName=NetDF1_2 Pin=DF1-2
+Added Pin To Net: NetName=NetDF1_2 Pin=uno analog-7
+Added Net: Name=NetDF1_2
+Added Pin To Net: NetName=NetRF1_2 Pin=RF1-2
+Added Pin To Net: NetName=NetRF1_2 Pin=trafo-2
+Added Net: Name=NetRF1_2
+Added Pin To Net: NetName=NetRF2_1 Pin=RF2-1
+Added Pin To Net: NetName=NetRF2_1 Pin=trafo-1
+Added Net: Name=NetRF2_1
+Added Pin To Net: NetName=Netter phi_5 Pin=ter phi-5
+Added Net: Name=Netter phi_5
+Added Pin To Net: NetName=Netuno analog_4 Pin=uno analog-4
+Added Net: Name=Netuno analog_4
+Added Pin To Net: NetName=Netuno analog_6 Pin=uno analog-6
+Added Net: Name=Netuno analog_6
+Added Pin To Net: NetName=Netuno analog_8 Pin=uno analog-8
+Added Net: Name=Netuno analog_8
+Added Member To Class: ClassName=acs Member=Component C1 cap 2200 uf
+Added Member To Class: ClassName=acs Member=Component C2 cap 2200uf
+Added Member To Class: ClassName=acs Member=Component D1 Diode 1N4004
+Added Member To Class: ClassName=acs Member=Component D2 Diode 1N4004
+Added Member To Class: ClassName=acs Member=Component D3 Diode 1N4004
+Added Member To Class: ClassName=acs Member=Component D4 Diode 1N4004
+Added Member To Class: ClassName=acs Member=Component DF1 DIODA
+Added Member To Class: ClassName=acs Member=Component L1 induktor
+Added Member To Class: ClassName=acs Member=Component RF1 RESISTOR 13k
+Added Member To Class: ClassName=acs Member=Component RF2 RESISTOR 8k
+Added Member To Class: ClassName=acs Member=Component RT1 RESISTOR 2k
+Added Member To Class: ClassName=acs Member=Component ter phi Header 5
+Added Member To Class: ClassName=acs Member=Component trafo terminal block 2 pin
+Added Member To Class: ClassName=acs Member=Component uno analog Header 4X2
+Added Member To Class: ClassName=acs Member=Component zmpt Header 4

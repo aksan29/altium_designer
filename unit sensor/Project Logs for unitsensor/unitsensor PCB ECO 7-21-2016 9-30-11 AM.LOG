@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=LM339-7
+Removed Pin From Net: NetName=NetLM339_6 Pin=R3-2
+Removed Pin From Net: NetName=NetLM339_4 Pin=R4-2
+Removed Pin From Net: NetName=Net74LS86_1 Pin=R5-2
+Removed Pin From Net: NetName=Net74LS86_2 Pin=R6-2
+Removed Pin From Net: NetName=Net74LS86_1 Pin=R7-1
+Removed Pin From Net: NetName=Net74LS86_2 Pin=R8-1
+Added Component: Designator=D?(DO-41)
+Added Component: Designator=D?(DO-41)
+Added Component: Designator=r1(RESISTOR - duplicate)
+Added Component: Designator=r2(AXIAL-0.3)
+Added Component: Designator=r3(AXIAL-0.3)
+Added Component: Designator=r4(AXIAL-0.3)
+Added Component: Designator=r5(AXIAL-0.3)
+Added Component: Designator=r6(AXIAL-0.3)
+Added Component: Designator=r7(AXIAL-0.3)
+Added Component: Designator=r8(AXIAL-0.3)
+Added Pin To Net: NetName=NetLM339_5 Pin=r1-1
+Added Pin To Net: NetName=VCC Pin=r1-2
+Added Pin To Net: NetName=VCC Pin=r2-2
+Added Pin To Net: NetName=GND Pin=r3-1
+Added Pin To Net: NetName=NetLM339_4 Pin=r3-2
+Added Pin To Net: NetName=NetLM339_6 Pin=r4-1
+Added Pin To Net: NetName=GND Pin=r4-2
+Added Pin To Net: NetName=Net74LS86_1 Pin=r5-1
+Added Pin To Net: NetName=GND Pin=r6-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=r6-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=r7-1
+Added Pin To Net: NetName=GND Pin=r8-1
+Added Pin To Net: NetName=Net74LS86_2 Pin=r8-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=LM339-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=r5-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetLM339_7 Pin=LM339-7
+Added Pin To Net: NetName=NetLM339_7 Pin=OPTO 2-5
+Added Pin To Net: NetName=NetLM339_7 Pin=r2-1
+Added Pin To Net: NetName=NetLM339_7 Pin=r2-1
+Added Net: Name=NetLM339_7
+Added Pin To Net: NetName=NetR3_2 Pin=r3-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=r4-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=r5-2
+Added Pin To Net: NetName=NetR5_2 Pin=r7-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=r6-2
+Added Pin To Net: NetName=NetR6_2 Pin=r8-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=r7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=r8-2
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=Unitsensor Member=Component D? Diode 1N4002

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=analog1-1
+Removed Pin From Net: NetName=VCC Pin=analog1-2
+Removed Pin From Net: NetName=Netanalog1_5 Pin=analog1-5
+Removed Pin From Net: NetName=Netanalog1_8 Pin=analog1-8
+Removed Pin From Net: NetName=Netanalog1_9 Pin=analog1-9
+Removed Pin From Net: NetName=NetD1RS_2 Pin=D1RS-2
+Removed Pin From Net: NetName=NetD1ST_2 Pin=D1ST-2
+Removed Pin From Net: NetName=NetD1TR_2 Pin=D1TR-2
+Removed Pin From Net: NetName=NetD1RS_2 Pin=D2RS-1
+Removed Pin From Net: NetName=NetD1ST_2 Pin=D2ST-1
+Removed Pin From Net: NetName=NetD1TR_2 Pin=D2TR-1
+Removed Pin From Net: NetName=NetD1ST_2 Pin=D3RS-2
+Removed Pin From Net: NetName=NetD1TR_2 Pin=D3ST-2
+Removed Pin From Net: NetName=NetD1RS_2 Pin=D3TR-2
+Removed Pin From Net: NetName=NetD1ST_2 Pin=D4RS-1
+Removed Pin From Net: NetName=NetD1TR_2 Pin=D4ST-1
+Removed Pin From Net: NetName=NetD1RS_2 Pin=D4TR-1
+Removed Member From Class: ClassName=teg Member=analog1
+Removed Member From Class: ClassName=teg Member=C1RS
+Removed Member From Class: ClassName=teg Member=C1ST
+Removed Member From Class: ClassName=teg Member=C1TR
+Removed Member From Class: ClassName=teg Member=C2RS
+Removed Member From Class: ClassName=teg Member=C2ST
+Removed Member From Class: ClassName=teg Member=C2TR
+Removed Member From Class: ClassName=teg Member=D1RS
+Removed Member From Class: ClassName=teg Member=D1ST
+Removed Member From Class: ClassName=teg Member=D1TR
+Removed Member From Class: ClassName=teg Member=D2RS
+Removed Member From Class: ClassName=teg Member=D2ST
+Removed Member From Class: ClassName=teg Member=D2TR
+Removed Member From Class: ClassName=teg Member=D3RS
+Removed Member From Class: ClassName=teg Member=D3ST
+Removed Member From Class: ClassName=teg Member=D3TR
+Removed Member From Class: ClassName=teg Member=D4RS
+Removed Member From Class: ClassName=teg Member=D4ST
+Removed Member From Class: ClassName=teg Member=D4TR
+Removed Member From Class: ClassName=teg Member=L1RS
+Removed Member From Class: ClassName=teg Member=L1ST
+Removed Member From Class: ClassName=teg Member=L1TR
+Removed Member From Class: ClassName=teg Member=R1RS
+Removed Member From Class: ClassName=teg Member=R1ST
+Removed Member From Class: ClassName=teg Member=R1TR
+Change Component DesignItemId : Designator=R1R Old DesignItemId=Res1 New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R1S Old DesignItemId=Res1 New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R1T Old DesignItemId=Res1 New DesignItemId=RESISTOR
+Change Component Footprint: Designator=L1R Old Footprint=dioda zener New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1S Old Footprint=dioda zener New Footprint=AXIAL-0.9
+Change Component Footprint: Designator=L1T Old Footprint=dioda zener New Footprint=AXIAL-0.9
+Change Component Comment : Designator=R1R Old Comment=Res1 New Comment=RESISTOR
+Change Component Comment : Designator=R1S Old Comment=Res1 New Comment=RESISTOR
+Change Component Comment : Designator=R1T Old Comment=Res1 New Comment=RESISTOR
+Change Component Description : Designator=R1R Old Description=Resistor New Description=
+Change Component Description : Designator=R1S Old Description=Resistor New Description=
+Change Component Description : Designator=R1T Old Description=Resistor New Description=
+Change Component Library : Designator=R1R Old Library=Miscellaneous Devices.IntLib New Library=ALL_COMPONENT.IntLib
+Change Component Library : Designator=R1S Old Library=Miscellaneous Devices.IntLib New Library=ALL_COMPONENT.IntLib
+Change Component Library : Designator=R1T Old Library=Miscellaneous Devices.IntLib New Library=ALL_COMPONENT.IntLib
+Added Component: Designator=5v(header 2)
+Added Component: Designator=analog(HDR1X3)
+Added Pin To Net: NetName=GND Pin=5v-1
+Added Pin To Net: NetName=VCC Pin=5v-2
+Added Pin To Net: NetName=Netanalog1_8 Pin=analog-1
+Added Pin To Net: NetName=Netanalog1_9 Pin=analog-2
+Added Pin To Net: NetName=Netanalog1_5 Pin=analog-3
+Change Net Name : Old Net Name=Netanalog1_5 New Net Name=Netanalog_3
+Change Net Name : Old Net Name=Netanalog1_8 New Net Name=Netanalog_1
+Change Net Name : Old Net Name=Netanalog1_9 New Net Name=Netanalog_2
+Change Net Name : Old Net Name=NetD1RS_2 New Net Name=NetD3R_2
+Change Net Name : Old Net Name=NetD1ST_2 New Net Name=NetD3S_2
+Change Net Name : Old Net Name=NetD1TR_2 New Net Name=NetD3T_2
+Added Member To Class: ClassName=teg Member=Component 5v header 2
+Added Member To Class: ClassName=teg Member=Component analog Header 3

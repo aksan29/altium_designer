@@ -1,0 +1,12 @@
+Added Component: Designator=push(HDR1X5)
+Added Pin To Net: NetName=VCC Pin=push-1
+Added Pin To Net: NetName=Netpush_2 Pin=push-2
+Added Net: Name=Netpush_2
+Added Pin To Net: NetName=Netpush_3 Pin=push-3
+Added Net: Name=Netpush_3
+Added Pin To Net: NetName=Netpush_4 Pin=push-4
+Added Net: Name=Netpush_4
+Added Pin To Net: NetName=Netpush_5 Pin=push-5
+Added Net: Name=Netpush_5
+Added Member To Class: ClassName=push B Member=Component push Header 5
+Added Room: Name=push B

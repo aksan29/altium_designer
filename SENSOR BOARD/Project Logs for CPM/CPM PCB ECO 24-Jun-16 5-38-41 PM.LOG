@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=SENSOR Old Footprint=HEADER 2X5 New Footprint=socket dw
+Change Component Comment : Designator=SENSOR Old Comment=Header 5X2A New Comment=Header 5X2
+Change Component Designator: OldDesignator=P? NewDesignator=P2

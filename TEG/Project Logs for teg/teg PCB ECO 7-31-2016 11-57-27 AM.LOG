@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Netanalog1_3 Pin=analog1-3
+Removed Pin From Net: NetName=Netanalog1_7 Pin=analog1-7
+Added Pin To Net: NetName=Netanalog1_7 Pin=analog1-3
+Added Pin To Net: NetName=Netanalog1_3 Pin=analog1-7
+Change Net Name : Old Net Name=Netanalog1_3 New Net Name=Netanalog1_7
+Change Net Name : Old Net Name=Netanalog1_7 New Net Name=Netanalog1_3

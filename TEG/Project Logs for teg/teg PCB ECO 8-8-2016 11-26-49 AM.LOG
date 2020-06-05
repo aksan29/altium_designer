@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=5v-1
+Removed Pin From Net: NetName=Netanalog_1 Pin=analog-1
+Removed Pin From Net: NetName=Netanalog_2 Pin=analog-2
+Removed Pin From Net: NetName=Netanalog_3 Pin=analog-3
+Removed Pin From Net: NetName=NetD1R_2 Pin=phi-1
+Removed Pin From Net: NetName=NetD3R_2 Pin=phi-2
+Removed Member From Class: ClassName=teg Member=5v
+Removed Member From Class: ClassName=teg Member=phi
+Change Component DesignItemId : Designator=analog Old DesignItemId=Header 3 New DesignItemId=Header 4
+Change Component Footprint: Designator=analog Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Comment : Designator=analog Old Comment=Header 3 New Comment=Header 4
+Added Pin To Net: NetName=GND Pin=analog-1
+Added Pin To Net: NetName=Netanalog_1 Pin=analog-2
+Added Pin To Net: NetName=Netanalog_2 Pin=analog-3
+Added Pin To Net: NetName=Netanalog_3 Pin=analog-4
+Change Net Name : Old Net Name=Netanalog_1 New Net Name=Netanalog_2
+Change Net Name : Old Net Name=Netanalog_2 New Net Name=Netanalog_3
+Change Net Name : Old Net Name=Netanalog_3 New Net Name=Netanalog_4

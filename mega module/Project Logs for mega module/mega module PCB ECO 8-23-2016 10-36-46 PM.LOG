@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TX0 Pin=rx tx 0-1
+Removed Pin From Net: NetName=RX0 Pin=rx tx 0-2
+Removed Pin From Net: NetName=VCC Pin=rx tx 0-3
+Removed Pin From Net: NetName=GND Pin=rx tx 0-4
+Removed Member From Class: ClassName=mega module Member=rx tx 0
+Added Component: Designator=*(HEADER 1X4L)
+Added Pin To Net: NetName=TX0 Pin=*-1
+Added Pin To Net: NetName=RX0 Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4

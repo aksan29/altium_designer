@@ -1,0 +1,30 @@
+Added Component: Designator=5.1(header 2)
+Added Component: Designator=5.2(header 2)
+Added Component: Designator=5.3(header 2)
+Added Component: Designator=5.4(header 2)
+Added Component: Designator=bat(header 2)
+Added Component: Designator=vin 5(header 2)
+Added Component: Designator=vin(header 2)
+Added Pin To Net: NetName=GND Pin=5.1-1
+Added Pin To Net: NetName=VCC Pin=5.1-2
+Added Pin To Net: NetName=GND Pin=5.2-1
+Added Pin To Net: NetName=VCC Pin=5.2-2
+Added Pin To Net: NetName=GND Pin=5.3-1
+Added Pin To Net: NetName=VCC Pin=5.3-2
+Added Pin To Net: NetName=GND Pin=5.4-1
+Added Pin To Net: NetName=VCC Pin=5.4-2
+Added Pin To Net: NetName=GND Pin=bat-2
+Added Pin To Net: NetName=GND Pin=vin 5-2
+Added Pin To Net: NetName=Netpower_8 Pin=vin-1
+Added Pin To Net: NetName=Netpower_8 Pin=vin-2
+Added Pin To Net: NetName=Netbat_1 Pin=bat-1
+Added Net: Name=Netbat_1
+Added Pin To Net: NetName=Netvin 5_1 Pin=vin 5-1
+Added Net: Name=Netvin 5_1
+Added Member To Class: ClassName=ita Member=Component 5.1 header 2
+Added Member To Class: ClassName=ita Member=Component 5.2 header 2
+Added Member To Class: ClassName=ita Member=Component 5.3 header 2
+Added Member To Class: ClassName=ita Member=Component 5.4 header 2
+Added Member To Class: ClassName=ita Member=Component bat 9v
+Added Member To Class: ClassName=ita Member=Component vin 5 header 2
+Added Member To Class: ClassName=ita Member=Component vin header 2

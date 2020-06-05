@@ -1,0 +1,115 @@
+Added Component: Designator=74LS86(DIP-14)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=D1(DO-35)
+Added Component: Designator=D2(DO-35)
+Added Component: Designator=D3(DO-35)
+Added Component: Designator=D4(DO-35)
+Added Component: Designator=LM339(DIP-14)
+Added Component: Designator=OPTO 1(DIP-6)
+Added Component: Designator=OPTO 2(DIP-6)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=SENSOR(HDR2X5_CEN)
+Added Pin To Net: NetName=GND Pin=74LS86-7
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=LM339-7
+Added Pin To Net: NetName=GND Pin=LM339-12
+Added Pin To Net: NetName=GND Pin=OPTO 1-2
+Added Pin To Net: NetName=GND Pin=OPTO 1-4
+Added Pin To Net: NetName=GND Pin=OPTO 2-2
+Added Pin To Net: NetName=GND Pin=OPTO 2-4
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=SENSOR-6
+Added Pin To Net: NetName=GND Pin=SENSOR-7
+Added Pin To Net: NetName=VSENSOR Pin=SENSOR-8
+Added Pin To Net: NetName=VSENSOR Pin=SENSOR-9
+Added Pin To Net: NetName=Net74LS86_1 Pin=74LS86-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=R5-2
+Added Pin To Net: NetName=Net74LS86_1 Pin=R7-1
+Added Net: Name=Net74LS86_1
+Added Pin To Net: NetName=Net74LS86_2 Pin=74LS86-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=R6-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=R8-1
+Added Net: Name=Net74LS86_2
+Added Pin To Net: NetName=Net74LS86_3 Pin=74LS86-3
+Added Pin To Net: NetName=Net74LS86_3 Pin=SENSOR-10
+Added Net: Name=Net74LS86_3
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-2
+Added Pin To Net: NetName=NetC1_2 Pin=D4-2
+Added Pin To Net: NetName=NetC1_2 Pin=R9-2
+Added Pin To Net: NetName=NetC1_2 Pin=SENSOR-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=OPTO 1-1
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetLM339_1 Pin=LM339-1
+Added Pin To Net: NetName=NetLM339_1 Pin=R7-2
+Added Net: Name=NetLM339_1
+Added Pin To Net: NetName=NetLM339_2 Pin=LM339-2
+Added Pin To Net: NetName=NetLM339_2 Pin=R8-2
+Added Net: Name=NetLM339_2
+Added Pin To Net: NetName=NetLM339_4 Pin=LM339-4
+Added Pin To Net: NetName=NetLM339_4 Pin=R4-2
+Added Net: Name=NetLM339_4
+Added Pin To Net: NetName=NetLM339_5 Pin=LM339-5
+Added Pin To Net: NetName=NetLM339_5 Pin=OPTO 1-5
+Added Pin To Net: NetName=NetLM339_5 Pin=R1-1
+Added Net: Name=NetLM339_5
+Added Pin To Net: NetName=NetLM339_6 Pin=LM339-6
+Added Pin To Net: NetName=NetLM339_6 Pin=R3-2
+Added Net: Name=NetLM339_6
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=OPTO 2-1
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=P1-3
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=SENSOR-4
+Added Net: Name=NetOPTO 2_1
+Added Pin To Net: NetName=NetOPTO 2_5 Pin=OPTO 2-5
+Added Pin To Net: NetName=NetOPTO 2_5 Pin=R2-1
+Added Net: Name=NetOPTO 2_5
+Added Pin To Net: NetName=VCC Pin=74LS86-14
+Added Pin To Net: NetName=VCC Pin=LM339-3
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=CPM Member=Component 74LS86 SW DIP-7
+Added Member To Class: ClassName=CPM Member=Component C1 Cap
+Added Member To Class: ClassName=CPM Member=Component D1 Diode 1N4150
+Added Member To Class: ClassName=CPM Member=Component D2 Diode 1N4150
+Added Member To Class: ClassName=CPM Member=Component D3 Diode 1N4150
+Added Member To Class: ClassName=CPM Member=Component D4 Diode 1N4150
+Added Member To Class: ClassName=CPM Member=Component LM339 SW DIP-7
+Added Member To Class: ClassName=CPM Member=Component OPTO 1 SW DIP-3
+Added Member To Class: ClassName=CPM Member=Component OPTO 2 SW DIP-3
+Added Member To Class: ClassName=CPM Member=Component P1 Header 4
+Added Member To Class: ClassName=CPM Member=Component R1 Res1
+Added Member To Class: ClassName=CPM Member=Component R2 Res1
+Added Member To Class: ClassName=CPM Member=Component R3 Res1
+Added Member To Class: ClassName=CPM Member=Component R4 Res1
+Added Member To Class: ClassName=CPM Member=Component R5 Res1
+Added Member To Class: ClassName=CPM Member=Component R6 Res1
+Added Member To Class: ClassName=CPM Member=Component R7 Res1
+Added Member To Class: ClassName=CPM Member=Component R8 Res1
+Added Member To Class: ClassName=CPM Member=Component R9 Res1
+Added Member To Class: ClassName=CPM Member=Component SENSOR Header 5X2A
+Added Room: Name=CPM

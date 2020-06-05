@@ -1,0 +1,267 @@
+Added Component: Designator=analog1(HDR2X5)
+Added Component: Designator=C1RS(cap 1000uf)
+Added Component: Designator=C1R(cap 1000uf)
+Added Component: Designator=C1S(cap 1000uf)
+Added Component: Designator=C1ST(cap 1000uf)
+Added Component: Designator=C1TR(cap 1000uf)
+Added Component: Designator=C1T(cap 1000uf)
+Added Component: Designator=C2RS(cap 1000uf)
+Added Component: Designator=C2R(cap 1000uf)
+Added Component: Designator=C2S(cap 1000uf)
+Added Component: Designator=C2ST(cap 1000uf)
+Added Component: Designator=C2TR(cap 1000uf)
+Added Component: Designator=C2T(cap 1000uf)
+Added Component: Designator=D1RS(diode)
+Added Component: Designator=D1R(diode)
+Added Component: Designator=D1S(diode)
+Added Component: Designator=D1ST(diode)
+Added Component: Designator=D1TR(diode)
+Added Component: Designator=D1T(diode)
+Added Component: Designator=D2RS(diode)
+Added Component: Designator=D2R(diode)
+Added Component: Designator=D2S(diode)
+Added Component: Designator=D2ST(diode)
+Added Component: Designator=D2TR(diode)
+Added Component: Designator=D2T(diode)
+Added Component: Designator=D3RS(diode)
+Added Component: Designator=D3R(diode)
+Added Component: Designator=D3S(diode)
+Added Component: Designator=D3ST(diode)
+Added Component: Designator=D3TR(diode)
+Added Component: Designator=D3T(diode)
+Added Component: Designator=D4RS(diode)
+Added Component: Designator=D4R(diode)
+Added Component: Designator=D4S(diode)
+Added Component: Designator=D4ST(diode)
+Added Component: Designator=D4TR(diode)
+Added Component: Designator=D4T(diode)
+Added Component: Designator=L1RS(AXIAL-0.9)
+Added Component: Designator=L1R(AXIAL-0.9)
+Added Component: Designator=L1S(AXIAL-0.9)
+Added Component: Designator=L1ST(AXIAL-0.9)
+Added Component: Designator=L1TR(AXIAL-0.9)
+Added Component: Designator=L1T(AXIAL-0.9)
+Added Component: Designator=phi(HDR1X2)
+Added Component: Designator=R1RS(RESISTOR - duplicate)
+Added Component: Designator=R1R(RESISTOR - duplicate)
+Added Component: Designator=R1S(RESISTOR - duplicate)
+Added Component: Designator=R1ST(RESISTOR - duplicate)
+Added Component: Designator=R1(AXIAL-0.9)
+Added Component: Designator=R1TR(RESISTOR - duplicate)
+Added Component: Designator=R1T(RESISTOR - duplicate)
+Added Component: Designator=R2(AXIAL-0.9)
+Added Component: Designator=R3(AXIAL-0.9)
+Added Component: Designator=R4(AXIAL-0.9)
+Added Component: Designator=R5(AXIAL-0.9)
+Added Component: Designator=S1(AXIAL-0.9)
+Added Component: Designator=S2(AXIAL-0.9)
+Added Component: Designator=S3(AXIAL-0.9)
+Added Component: Designator=S4(AXIAL-0.9)
+Added Component: Designator=S5(AXIAL-0.9)
+Added Component: Designator=T1(AXIAL-0.9)
+Added Component: Designator=T2(AXIAL-0.9)
+Added Component: Designator=T3(AXIAL-0.9)
+Added Component: Designator=T4(AXIAL-0.9)
+Added Component: Designator=T5(AXIAL-0.9)
+Added Pin To Net: NetName=GND Pin=analog1-1
+Added Pin To Net: NetName=VCC Pin=analog1-2
+Added Pin To Net: NetName=Netanalog1_3 Pin=analog1-3
+Added Pin To Net: NetName=Netanalog1_4 Pin=analog1-4
+Added Pin To Net: NetName=Netanalog1_5 Pin=analog1-5
+Added Pin To Net: NetName=Netanalog1_6 Pin=analog1-6
+Added Pin To Net: NetName=Netanalog1_7 Pin=analog1-7
+Added Pin To Net: NetName=Netanalog1_8 Pin=analog1-8
+Added Pin To Net: NetName=Netanalog1_9 Pin=analog1-9
+Added Pin To Net: NetName=Netanalog1_10 Pin=analog1-10
+Added Pin To Net: NetName=GND Pin=C1R-1
+Added Pin To Net: NetName=NetC1R_2 Pin=C1R-2
+Added Pin To Net: NetName=NetC1RS_1 Pin=C1RS-1
+Added Pin To Net: NetName=NetC1RS_2 Pin=C1RS-2
+Added Pin To Net: NetName=GND Pin=C1S-1
+Added Pin To Net: NetName=NetC1S_2 Pin=C1S-2
+Added Pin To Net: NetName=NetC1ST_1 Pin=C1ST-1
+Added Pin To Net: NetName=NetC1ST_2 Pin=C1ST-2
+Added Pin To Net: NetName=GND Pin=C1T-1
+Added Pin To Net: NetName=NetC1T_2 Pin=C1T-2
+Added Pin To Net: NetName=NetC1TR_1 Pin=C1TR-1
+Added Pin To Net: NetName=NetC1TR_2 Pin=C1TR-2
+Added Pin To Net: NetName=GND Pin=C2R-1
+Added Pin To Net: NetName=Netanalog1_8 Pin=C2R-2
+Added Pin To Net: NetName=NetC1RS_1 Pin=C2RS-1
+Added Pin To Net: NetName=Netanalog1_10 Pin=C2RS-2
+Added Pin To Net: NetName=GND Pin=C2S-1
+Added Pin To Net: NetName=Netanalog1_9 Pin=C2S-2
+Added Pin To Net: NetName=NetC1ST_1 Pin=C2ST-1
+Added Pin To Net: NetName=Netanalog1_7 Pin=C2ST-2
+Added Pin To Net: NetName=GND Pin=C2T-1
+Added Pin To Net: NetName=Netanalog1_5 Pin=C2T-2
+Added Pin To Net: NetName=NetC1TR_1 Pin=C2TR-1
+Added Pin To Net: NetName=Netanalog1_3 Pin=C2TR-2
+Added Pin To Net: NetName=GND Pin=D1R-1
+Added Pin To Net: NetName=NetD1R_2 Pin=D1R-2
+Added Pin To Net: NetName=NetC1RS_1 Pin=D1RS-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=D1RS-2
+Added Pin To Net: NetName=GND Pin=D1S-1
+Added Pin To Net: NetName=NetD1R_2 Pin=D1S-2
+Added Pin To Net: NetName=NetC1ST_1 Pin=D1ST-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=D1ST-2
+Added Pin To Net: NetName=GND Pin=D1T-1
+Added Pin To Net: NetName=NetD1R_2 Pin=D1T-2
+Added Pin To Net: NetName=NetC1TR_1 Pin=D1TR-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=D1TR-2
+Added Pin To Net: NetName=NetD1R_2 Pin=D2R-1
+Added Pin To Net: NetName=NetC1R_2 Pin=D2R-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=D2RS-1
+Added Pin To Net: NetName=NetC1RS_2 Pin=D2RS-2
+Added Pin To Net: NetName=NetD1R_2 Pin=D2S-1
+Added Pin To Net: NetName=NetC1S_2 Pin=D2S-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=D2ST-1
+Added Pin To Net: NetName=NetC1ST_2 Pin=D2ST-2
+Added Pin To Net: NetName=NetD1R_2 Pin=D2T-1
+Added Pin To Net: NetName=NetC1T_2 Pin=D2T-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=D2TR-1
+Added Pin To Net: NetName=NetC1TR_2 Pin=D2TR-2
+Added Pin To Net: NetName=GND Pin=D3R-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=D3R-2
+Added Pin To Net: NetName=NetC1RS_1 Pin=D3RS-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=D3RS-2
+Added Pin To Net: NetName=GND Pin=D3S-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=D3S-2
+Added Pin To Net: NetName=NetC1ST_1 Pin=D3ST-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=D3ST-2
+Added Pin To Net: NetName=GND Pin=D3T-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=D3T-2
+Added Pin To Net: NetName=NetC1TR_1 Pin=D3TR-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=D3TR-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=D4R-1
+Added Pin To Net: NetName=NetC1R_2 Pin=D4R-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=D4RS-1
+Added Pin To Net: NetName=NetC1RS_2 Pin=D4RS-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=D4S-1
+Added Pin To Net: NetName=NetC1S_2 Pin=D4S-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=D4ST-1
+Added Pin To Net: NetName=NetC1ST_2 Pin=D4ST-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=D4T-1
+Added Pin To Net: NetName=NetC1T_2 Pin=D4T-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=D4TR-1
+Added Pin To Net: NetName=NetC1TR_2 Pin=D4TR-2
+Added Pin To Net: NetName=NetC1R_2 Pin=L1R-1
+Added Pin To Net: NetName=Netanalog1_8 Pin=L1R-2
+Added Pin To Net: NetName=NetC1RS_2 Pin=L1RS-1
+Added Pin To Net: NetName=Netanalog1_10 Pin=L1RS-2
+Added Pin To Net: NetName=NetC1S_2 Pin=L1S-1
+Added Pin To Net: NetName=Netanalog1_9 Pin=L1S-2
+Added Pin To Net: NetName=NetC1ST_2 Pin=L1ST-1
+Added Pin To Net: NetName=Netanalog1_7 Pin=L1ST-2
+Added Pin To Net: NetName=NetC1T_2 Pin=L1T-1
+Added Pin To Net: NetName=Netanalog1_5 Pin=L1T-2
+Added Pin To Net: NetName=NetC1TR_2 Pin=L1TR-1
+Added Pin To Net: NetName=Netanalog1_3 Pin=L1TR-2
+Added Pin To Net: NetName=NetD1R_2 Pin=phi-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=phi-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R1R-1
+Added Pin To Net: NetName=Netanalog1_8 Pin=R1R-2
+Added Pin To Net: NetName=NetC1RS_1 Pin=R1RS-1
+Added Pin To Net: NetName=Netanalog1_10 Pin=R1RS-2
+Added Pin To Net: NetName=GND Pin=R1S-1
+Added Pin To Net: NetName=Netanalog1_9 Pin=R1S-2
+Added Pin To Net: NetName=NetC1ST_1 Pin=R1ST-1
+Added Pin To Net: NetName=Netanalog1_7 Pin=R1ST-2
+Added Pin To Net: NetName=GND Pin=R1T-1
+Added Pin To Net: NetName=Netanalog1_5 Pin=R1T-2
+Added Pin To Net: NetName=NetC1TR_1 Pin=R1TR-1
+Added Pin To Net: NetName=Netanalog1_3 Pin=R1TR-2
+Added Pin To Net: NetName=NetD1RS_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetD1R_2 Pin=R3-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=R4-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=R5-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=R5-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=S1-1
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetD1ST_2 Pin=S2-1
+Added Pin To Net: NetName=NetS1_2 Pin=S2-2
+Added Pin To Net: NetName=NetD1R_2 Pin=S3-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=S4-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=S5-1
+Added Pin To Net: NetName=NetD1ST_2 Pin=S5-2
+Added Pin To Net: NetName=NetD1TR_2 Pin=T1-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T2-1
+Added Pin To Net: NetName=NetD1R_2 Pin=T3-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T3-2
+Added Pin To Net: NetName=NetD1R_2 Pin=T4-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T4-2
+Added Pin To Net: NetName=NetD1R_2 Pin=T5-1
+Added Pin To Net: NetName=NetD1TR_2 Pin=T5-2
+Added Member To Class: ClassName=teg Member=Component analog1 Header 5X2
+Added Member To Class: ClassName=teg Member=Component C1RS Cap
+Added Member To Class: ClassName=teg Member=Component C1R Cap
+Added Member To Class: ClassName=teg Member=Component C1S Cap
+Added Member To Class: ClassName=teg Member=Component C1ST Cap
+Added Member To Class: ClassName=teg Member=Component C1TR Cap
+Added Member To Class: ClassName=teg Member=Component C1T Cap
+Added Member To Class: ClassName=teg Member=Component C2RS Cap
+Added Member To Class: ClassName=teg Member=Component C2R Cap
+Added Member To Class: ClassName=teg Member=Component C2S Cap
+Added Member To Class: ClassName=teg Member=Component C2ST Cap
+Added Member To Class: ClassName=teg Member=Component C2TR Cap
+Added Member To Class: ClassName=teg Member=Component C2T Cap
+Added Member To Class: ClassName=teg Member=Component D1RS Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1ST Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1TR Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2RS Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2ST Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2TR Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3RS Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3ST Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3TR Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4RS Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4ST Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4TR Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component L1RS Inductor Iron
+Added Member To Class: ClassName=teg Member=Component L1R Inductor Iron
+Added Member To Class: ClassName=teg Member=Component L1S Inductor Iron
+Added Member To Class: ClassName=teg Member=Component L1ST Inductor Iron
+Added Member To Class: ClassName=teg Member=Component L1TR Inductor Iron
+Added Member To Class: ClassName=teg Member=Component L1T Inductor Iron
+Added Member To Class: ClassName=teg Member=Component phi Header 2
+Added Member To Class: ClassName=teg Member=Component R1RS Res1
+Added Member To Class: ClassName=teg Member=Component R1R Res1
+Added Member To Class: ClassName=teg Member=Component R1S Res1
+Added Member To Class: ClassName=teg Member=Component R1ST Res1
+Added Member To Class: ClassName=teg Member=Component R1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R1TR Res1
+Added Member To Class: ClassName=teg Member=Component R1T Res1
+Added Member To Class: ClassName=teg Member=Component R2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R5 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S5 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T5 Inductor Iron
+Added Room: Name=teg

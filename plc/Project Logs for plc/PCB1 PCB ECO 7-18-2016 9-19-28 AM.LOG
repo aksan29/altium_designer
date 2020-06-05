@@ -1,0 +1,39 @@
+Added Component: Designator=9v(terminal block)
+Added Component: Designator=com(HEADER 1X4L)
+Added Component: Designator=F1(PIN-W2/E2.8)
+Added Component: Designator=mode/rst(header 2)
+Added Component: Designator=plc(terminal block)
+Added Component: Designator=T1(HDR1X7)
+Added Component: Designator=vin(terminal block)
+Added Pin To Net: NetName=GND Pin=9v-1
+Added Pin To Net: NetName=Net9v_2 Pin=9v-2
+Added Pin To Net: NetName=GND Pin=com-1
+Added Pin To Net: NetName=NETLABEL5 Pin=com-2
+Added Pin To Net: NetName=Netcom_3 Pin=com-3
+Added Pin To Net: NetName=Netcom_4 Pin=com-4
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=plc-1
+Added Pin To Net: NetName=Netcom_4 Pin=T1-3
+Added Pin To Net: NetName=Netcom_3 Pin=T1-4
+Added Pin To Net: NetName=NETLABEL5 Pin=T1-5
+Added Pin To Net: NetName=GND Pin=T1-6
+Added Pin To Net: NetName=Net9v_2 Pin=T1-7
+Added Pin To Net: NetName=NetF1_2 Pin=vin-1
+Added Pin To Net: NetName=Netmode/rst_1 Pin=mode/rst-1
+Added Pin To Net: NetName=Netmode/rst_1 Pin=T1-2
+Added Net: Name=Netmode/rst_1
+Added Pin To Net: NetName=Netmode/rst_2 Pin=mode/rst-2
+Added Pin To Net: NetName=Netmode/rst_2 Pin=T1-1
+Added Net: Name=Netmode/rst_2
+Added Pin To Net: NetName=Netplc_2 Pin=plc-2
+Added Pin To Net: NetName=Netplc_2 Pin=vin-2
+Added Net: Name=Netplc_2
+Added Member To Class: ClassName=Sheet1 Member=Component 9v terminal block 2 pin
+Added Member To Class: ClassName=Sheet1 Member=Component com HEADER 1X4L
+Added Member To Class: ClassName=Sheet1 Member=Component F1 Fuse 1
+Added Member To Class: ClassName=Sheet1 Member=Component mode/rst header 2
+Added Member To Class: ClassName=Sheet1 Member=Component plc terminal block 2 pin
+Added Member To Class: ClassName=Sheet1 Member=Component T1 Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component vin terminal block 2 pin
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Netanalog1_4 Pin=T5-5
+Removed Pin From Net: NetName=Netanalog1_6 Pin=T5-6
+Removed Pin From Net: NetName=Netanalog1_8 Pin=T5-7
+Removed Pin From Net: NetName=Netanalog1_10 Pin=T5-8
+Added Pin To Net: NetName=Netanalog1_10 Pin=T5-5
+Added Pin To Net: NetName=Netanalog1_8 Pin=T5-6
+Added Pin To Net: NetName=Netanalog1_6 Pin=T5-7
+Added Pin To Net: NetName=Netanalog1_4 Pin=T5-8

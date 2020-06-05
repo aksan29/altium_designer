@@ -1,0 +1,86 @@
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=VCC Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=PWM13 Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=PWM12 Pin=*-6
+Added Pin To Net: NetName=PWM11 Pin=*-11
+Added Pin To Net: NetName=PWM10 Pin=*-12
+Added Pin To Net: NetName=PWM9 Pin=*-13
+Added Pin To Net: NetName=PWM8 Pin=*-14
+Added Pin To Net: NetName=VCC Pin=*-15
+Added Pin To Net: NetName=GND Pin=*-16
+Added Pin To Net: NetName=AD8 Pin=AD_H-1
+Added Pin To Net: NetName=AD9 Pin=AD_H-2
+Added Pin To Net: NetName=AD10 Pin=AD_H-3
+Added Pin To Net: NetName=AD11 Pin=AD_H-4
+Added Pin To Net: NetName=AD12 Pin=AD_H-5
+Added Pin To Net: NetName=AD13 Pin=AD_H-6
+Added Pin To Net: NetName=AD14 Pin=AD_H-7
+Added Pin To Net: NetName=AD15 Pin=AD_H-8
+Added Pin To Net: NetName=GND Pin=analog 1-1
+Added Pin To Net: NetName=VCC Pin=analog 1-2
+Added Pin To Net: NetName=AD0 Pin=analog 1-3
+Added Pin To Net: NetName=AD4 Pin=analog 1-4
+Added Pin To Net: NetName=AD1 Pin=analog 1-5
+Added Pin To Net: NetName=AD5 Pin=analog 1-6
+Added Pin To Net: NetName=AD2 Pin=analog 1-7
+Added Pin To Net: NetName=AD6 Pin=analog 1-8
+Added Pin To Net: NetName=AD3 Pin=analog 1-9
+Added Pin To Net: NetName=AD7 Pin=analog 1-10
+Added Pin To Net: NetName=GND Pin=analog 2-1
+Added Pin To Net: NetName=VCC Pin=analog 2-2
+Added Pin To Net: NetName=AD8 Pin=analog 2-3
+Added Pin To Net: NetName=AD12 Pin=analog 2-4
+Added Pin To Net: NetName=AD9 Pin=analog 2-5
+Added Pin To Net: NetName=AD13 Pin=analog 2-6
+Added Pin To Net: NetName=AD10 Pin=analog 2-7
+Added Pin To Net: NetName=AD14 Pin=analog 2-8
+Added Pin To Net: NetName=AD11 Pin=analog 2-9
+Added Pin To Net: NetName=AD15 Pin=analog 2-10
+Added Pin To Net: NetName=RX1 Pin=COMMS-3
+Added Pin To Net: NetName=TX1 Pin=COMMS-4
+Added Pin To Net: NetName=RX2 Pin=COMMS-5
+Added Pin To Net: NetName=TX2 Pin=COMMS-6
+Added Pin To Net: NetName=RX3 Pin=COMMS-7
+Added Pin To Net: NetName=TX3 Pin=COMMS-8
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Pin To Net: NetName=PWM8 Pin=PWM_H-1
+Added Pin To Net: NetName=PWM9 Pin=PWM_H-2
+Added Pin To Net: NetName=PWM10 Pin=PWM_H-3
+Added Pin To Net: NetName=PWM11 Pin=PWM_H-4
+Added Pin To Net: NetName=PWM12 Pin=PWM_H-5
+Added Pin To Net: NetName=PWM13 Pin=PWM_H-6
+Added Pin To Net: NetName=GND Pin=rx tx 0-1
+Added Pin To Net: NetName=VCC Pin=rx tx 0-2
+Added Pin To Net: NetName=RX0 Pin=rx tx 0-3
+Added Pin To Net: NetName=TX0 Pin=rx tx 0-4
+Added Pin To Net: NetName=GND Pin=rx tx 1-1
+Added Pin To Net: NetName=VCC Pin=rx tx 1-2
+Added Pin To Net: NetName=RX1 Pin=rx tx 1-3
+Added Pin To Net: NetName=TX1 Pin=rx tx 1-4
+Added Pin To Net: NetName=GND Pin=rx tx 2-1
+Added Pin To Net: NetName=VCC Pin=rx tx 2-2
+Added Pin To Net: NetName=RX2 Pin=rx tx 2-3
+Added Pin To Net: NetName=TX2 Pin=rx tx 2-4
+Added Pin To Net: NetName=GND Pin=rx tx 3-1
+Added Pin To Net: NetName=VCC Pin=rx tx 3-2
+Added Pin To Net: NetName=RX3 Pin=rx tx 3-3
+Added Pin To Net: NetName=TX3 Pin=rx tx 3-4
+Added Pin To Net: NetName=VCC Pin=trimpot-1
+Added Pin To Net: NetName=Net*_3 Pin=trimpot-2
+Added Pin To Net: NetName=GND Pin=trimpot-3
+Added Member To Class: ClassName=mega module Member=Component * LCD
+Added Member To Class: ClassName=mega module Member=Component AD_H
+Added Member To Class: ClassName=mega module Member=Component analog 1 HEADER 2x5
+Added Member To Class: ClassName=mega module Member=Component analog 2 HEADER 2x5
+Added Member To Class: ClassName=mega module Member=Component COMMS Communication
+Added Member To Class: ClassName=mega module Member=Component DIGITAL IO_36
+Added Member To Class: ClassName=mega module Member=Component POWER
+Added Member To Class: ClassName=mega module Member=Component PWM_H
+Added Member To Class: ClassName=mega module Member=Component rx tx 0 HEADER 1X4L
+Added Member To Class: ClassName=mega module Member=Component rx tx 1 HEADER 1X4L
+Added Member To Class: ClassName=mega module Member=Component rx tx 2 HEADER 1X4L
+Added Member To Class: ClassName=mega module Member=Component rx tx 3 HEADER 1X4L
+Added Member To Class: ClassName=mega module Member=Component trimpot TRIMPOT

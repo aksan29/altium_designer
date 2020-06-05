@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=vin9-1
+Added Pin To Net: NetName=Net9v_2 Pin=vin9-2
+Added Member To Class: ClassName=Sheet1 Member=Component ac terminal block 2 pin

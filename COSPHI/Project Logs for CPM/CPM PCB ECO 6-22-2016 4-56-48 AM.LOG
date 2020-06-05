@@ -1,0 +1,25 @@
+Added Component: Designator=74LS86(DIP-14)
+Added Component: Designator=LM339(DIP-14)
+Added Component: Designator=OPTO 1(DIP-6)
+Added Component: Designator=OPTO 2(DIP-6)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Member To Class: ClassName=CPM Member=Component 74LS86 SW DIP-7
+Added Member To Class: ClassName=CPM Member=Component LM339 SW DIP-7
+Added Member To Class: ClassName=CPM Member=Component OPTO 1 SW DIP-3
+Added Member To Class: ClassName=CPM Member=Component OPTO 2 SW DIP-3
+Added Member To Class: ClassName=CPM Member=Component R1 Res1
+Added Member To Class: ClassName=CPM Member=Component R2 Res1
+Added Member To Class: ClassName=CPM Member=Component R3 Res1
+Added Member To Class: ClassName=CPM Member=Component R4 Res1
+Added Member To Class: ClassName=CPM Member=Component R5 Res1
+Added Member To Class: ClassName=CPM Member=Component R6 Res1
+Added Member To Class: ClassName=CPM Member=Component R7 Res1
+Added Member To Class: ClassName=CPM Member=Component R8 Res1
+Added Room: Name=CPM

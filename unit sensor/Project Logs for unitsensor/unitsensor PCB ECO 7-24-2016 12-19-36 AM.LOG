@@ -1,0 +1,4 @@
+Added Component: Designator=v5s(header 2)
+Added Pin To Net: NetName=GND Pin=v5s-1
+Added Pin To Net: NetName=VCC Pin=v5s-2
+Added Member To Class: ClassName=Unitsensor Member=Component v5s header 2

@@ -1,0 +1,4 @@
+Added Component: Designator=phi(HDR1X2)
+Added Pin To Net: NetName=NetD1R_2 Pin=phi-1
+Added Pin To Net: NetName=NetD1RS_2 Pin=phi-2
+Added Member To Class: ClassName=teg Member=Component phi Header 2

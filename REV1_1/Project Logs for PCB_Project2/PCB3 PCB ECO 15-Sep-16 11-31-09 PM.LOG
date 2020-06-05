@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=METERING-1
+Removed Pin From Net: NetName=VCC Pin=METERING-2
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-3
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING-5
+Removed Pin From Net: NetName=NetD9_2 Pin=METERING-6
+Removed Pin From Net: NetName=NetLS7486_3 Pin=METERING-7
+Removed Member From Class: ClassName=Sheet2 Member=METERING
+Added Component: Designator=MEASURING(HDR2X5)
+Added Pin To Net: NetName=GND Pin=MEASURING-1
+Added Pin To Net: NetName=VCC Pin=MEASURING-2
+Added Pin To Net: NetName=NetC1_1 Pin=MEASURING-3
+Added Pin To Net: NetName=NetACS712_2 Pin=MEASURING-5
+Added Pin To Net: NetName=NetD9_2 Pin=MEASURING-6
+Added Pin To Net: NetName=NetLS7486_3 Pin=MEASURING-7
+Added Member To Class: ClassName=Sheet2 Member=Component MEASURING Header 5X2

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=v9-2
+Added Component: Designator=v5(header 2)
+Added Pin To Net: NetName=GND Pin=v5-1
+Added Pin To Net: NetName=VCC Pin=v5-2
+Added Pin To Net: NetName=9VOUT Pin=v9-2
+Added Net: Name=9VOUT
+Added Member To Class: ClassName=Unitsensor Member=Component v5 header 2

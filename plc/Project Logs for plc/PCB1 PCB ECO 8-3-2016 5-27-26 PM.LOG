@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=9v-1
+Removed Member From Class: ClassName=Sheet1 Member=9v
+Added Pin To Net: NetName=Netplc.2_7 Pin=plc.2-7
+Added Pin To Net: NetName=Netplc.2_7 Pin=vin9-2
+Added Net: Name=Netplc.2_7

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Netac_2 Pin=F1-2
+Removed Member From Class: ClassName=Sheet1 Member=F1
+Added Component: Designator=L?(AXIAL-0.9)
+Added Pin To Net: NetName=Netac_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=plc.1-2
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=Sheet1 Member=Component L? Inductor Iron

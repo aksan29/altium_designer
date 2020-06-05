@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=2-3
+Removed Member From Class: ClassName=plc2 Member=3
+Added Component: Designator=*(header 2)
+Added Component: Designator=ac(terminal block)
+Added Component: Designator=com(HDR1X4)
+Added Component: Designator=fuse(AXIAL-0.9)
+Added Component: Designator=plc.1(terminal block)
+Added Component: Designator=plc.2(header 7)
+Added Component: Designator=vin9(HDR1X2)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=2-2
+Added Pin To Net: NetName=Net1_3 Pin=ac-1
+Added Pin To Net: NetName=Netac_2 Pin=ac-2
+Added Pin To Net: NetName=GND Pin=com-1
+Added Pin To Net: NetName=VCC Pin=com-2
+Added Pin To Net: NetName=Netcom_3 Pin=com-3
+Added Pin To Net: NetName=Netcom_4 Pin=com-4
+Added Pin To Net: NetName=Netfuse_1 Pin=fuse-1
+Added Pin To Net: NetName=Netac_2 Pin=fuse-2
+Added Pin To Net: NetName=Net1_3 Pin=plc.1-1
+Added Pin To Net: NetName=Netfuse_1 Pin=plc.1-2
+Added Pin To Net: NetName=Netplc.2_1 Pin=plc.2-1
+Added Pin To Net: NetName=Netplc.2_2 Pin=plc.2-2
+Added Pin To Net: NetName=Netcom_4 Pin=plc.2-3
+Added Pin To Net: NetName=Netcom_3 Pin=plc.2-4
+Added Pin To Net: NetName=VCC Pin=plc.2-5
+Added Pin To Net: NetName=GND Pin=plc.2-6
+Added Pin To Net: NetName=Net1_3 Pin=plc R-1
+Added Pin To Net: NetName=Net1_3 Pin=plc S-1
+Added Pin To Net: NetName=GND Pin=vin9-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=2-1
+Added Pin To Net: NetName=Net*_2 Pin=plc.2-7
+Added Pin To Net: NetName=Net*_2 Pin=plc ter R-7
+Added Pin To Net: NetName=Net*_2 Pin=plc ter S-7
+Added Pin To Net: NetName=Net*_2 Pin=vin9-2
+Added Net: Name=Net*_2
+Added Room: Name=plc

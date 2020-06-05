@@ -1,0 +1,19 @@
+Added Component: Designator=*(header 3x1)
+Added Component: Designator=*(header 3x1)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(cap 1000uf)
+Added Component: Designator=*(RESISTOR - duplicate)
+Added Component: Designator=*(RESISTOR - duplicate)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Member To Class: ClassName=SSR Member=Component * header 3x1
+Added Room: Name=SSR

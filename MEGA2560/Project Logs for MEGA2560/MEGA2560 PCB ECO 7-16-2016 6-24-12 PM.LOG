@@ -1,0 +1,14 @@
+Added Component: Designator=Com(HDR2X5)
+Added Pin To Net: NetName=NetCom_1 Pin=Com-1
+Added Pin To Net: NetName=NetCom_2 Pin=Com-2
+Added Pin To Net: NetName=NetCom_3 Pin=Com-3
+Added Pin To Net: NetName=NetCom_4 Pin=Com-4
+Added Pin To Net: NetName=NetCom_5 Pin=Com-5
+Added Pin To Net: NetName=NetCom_6 Pin=Com-6
+Added Pin To Net: NetName=NetCom_7 Pin=Com-7
+Added Pin To Net: NetName=NetCom_8 Pin=Com-8
+Added Pin To Net: NetName=NetCom_9 Pin=Com-9
+Added Pin To Net: NetName=NetCom_10 Pin=Com-10
+Added Pin To Net: NetName=NetCom_5 Pin=T1-3
+Added Pin To Net: NetName=NetCom_6 Pin=T1-4
+Added Member To Class: ClassName=MEGA2560 Member=Component Com Header 5X2

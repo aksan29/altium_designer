@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD7_1 Pin=R5-1
+Removed Pin From Net: NetName=NetD7_1 Pin=R6-2
+Change Component Designator: OldDesignator=D7 NewDesignator=D9
+Added Pin To Net: NetName=NetD7_1 Pin=LM358-7
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R5-1
+Added Pin To Net: NetName=NetD9_1 Pin=R6-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Net: Name=NetD9_2
+Added Member To Class: ClassName=Sheet2 Member=Component D5 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D9 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res1

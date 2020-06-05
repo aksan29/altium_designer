@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetAD_L_1 Pin=analog 1-3
+Added Net: Name=NetAD_L_1
+Added Pin To Net: NetName=NetAD_L_2 Pin=analog 1-5
+Added Net: Name=NetAD_L_2
+Added Pin To Net: NetName=NetAD_L_3 Pin=analog 1-7
+Added Net: Name=NetAD_L_3
+Added Pin To Net: NetName=NetAD_L_4 Pin=analog 1-9
+Added Net: Name=NetAD_L_4

@@ -1,0 +1,7 @@
+Added Component: Designator=D?(DO-41)
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=sensor-4
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Unitsensor Member=Component D? Diode 1N4001

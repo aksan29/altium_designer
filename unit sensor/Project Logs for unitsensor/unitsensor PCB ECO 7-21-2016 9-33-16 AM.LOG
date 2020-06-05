@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetLM339_5 Pin=r1-1
+Removed Pin From Net: NetName=VCC Pin=r1-2
+Removed Pin From Net: NetName=VCC Pin=r2-2
+Removed Pin From Net: NetName=GND Pin=r3-1
+Removed Pin From Net: NetName=GND Pin=r6-1
+Change Component Designator: OldDesignator=D? NewDesignator=d5
+Change Component Designator: OldDesignator=D? NewDesignator=d6
+Added Pin To Net: NetName=NetLM339_4 Pin=r3-2
+Added Pin To Net: NetName=GND Pin=r4-2
+Added Pin To Net: NetName=Net74LS86_1 Pin=r6-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=r7-1
+Added Pin To Net: NetName=GND Pin=r8-1
+Added Pin To Net: NetName=Net74LS86_2 Pin=r8-2
+Added Pin To Net: NetName=Netd5_1 Pin=d5-1
+Added Pin To Net: NetName=Netd5_1 Pin=LM339-2
+Added Net: Name=Netd5_1
+Added Pin To Net: NetName=Netd5_2 Pin=d5-2
+Added Pin To Net: NetName=Netd5_2 Pin=r7-2
+Added Net: Name=Netd5_2
+Added Pin To Net: NetName=Netd6_1 Pin=d6-1
+Added Pin To Net: NetName=Netd6_1 Pin=LM339-1
+Added Net: Name=Netd6_1
+Added Pin To Net: NetName=Netd6_2 Pin=d6-2
+Added Pin To Net: NetName=Netd6_2 Pin=r5-2
+Added Net: Name=Netd6_2
+Added Member To Class: ClassName=Unitsensor Member=Component d6 Diode 1N4002

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=Net*1_3 Pin=R10-2
+Added Component: Designator=R10(RESISTOR - duplicate)
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=Net*1_3 Pin=R10-2
+Added Member To Class: ClassName=CPM Member=Component R10 Res1

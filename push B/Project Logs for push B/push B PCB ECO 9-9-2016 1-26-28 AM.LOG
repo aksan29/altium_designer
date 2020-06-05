@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=VCC Pin=1-1
+Added Pin To Net: NetName=VCC Pin=3-1
+Added Pin To Net: NetName=VCC Pin=5-1
+Added Pin To Net: NetName=VCC Pin=7-1
+Added Pin To Net: NetName=Net2_2 Pin=2-2
+Added Pin To Net: NetName=Net2_2 Pin=push-5
+Added Net: Name=Net2_2
+Added Pin To Net: NetName=Net4_2 Pin=4-2
+Added Pin To Net: NetName=Net4_2 Pin=push-4
+Added Net: Name=Net4_2
+Added Pin To Net: NetName=Net6_2 Pin=6-2
+Added Pin To Net: NetName=Net6_2 Pin=push-3
+Added Net: Name=Net6_2
+Added Pin To Net: NetName=Net8_2 Pin=8-2
+Added Pin To Net: NetName=Net8_2 Pin=push-2
+Added Net: Name=Net8_2

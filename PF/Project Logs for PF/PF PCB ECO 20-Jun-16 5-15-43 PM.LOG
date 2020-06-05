@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VSENSOR Pin=SENSOR-7
+Removed Pin From Net: NetName=VSENSOR Pin=SENSOR-8
+Removed Pin From Net: NetName=GND Pin=SENSOR-9
+Removed Pin From Net: NetName=GND Pin=SENSOR-10
+Added Pin To Net: NetName=GND Pin=SENSOR-7
+Added Pin To Net: NetName=GND Pin=SENSOR-8
+Added Pin To Net: NetName=VSENSOR Pin=SENSOR-9
+Added Pin To Net: NetName=VSENSOR Pin=SENSOR-10
+Added Member To Class: ClassName=PF Member=Component LED SENS LED0

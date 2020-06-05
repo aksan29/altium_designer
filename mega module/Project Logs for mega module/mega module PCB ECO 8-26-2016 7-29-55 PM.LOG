@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetDIGITAL_18 Pin=pus-2
+Removed Pin From Net: NetName=NetDIGITAL_16 Pin=pus-3
+Removed Pin From Net: NetName=NetDIGITAL_14 Pin=pus-4
+Removed Pin From Net: NetName=NetDIGITAL_12 Pin=pus-5
+Removed Pin From Net: NetName=NetDIGITAL_10 Pin=pus-6
+Removed Pin From Net: NetName=NetDIGITAL_8 Pin=pus-7
+Removed Pin From Net: NetName=NetDIGITAL_6 Pin=pus-8
+Removed Pin From Net: NetName=NetDIGITAL_4 Pin=pus-9
+Added Pin To Net: NetName=NetDIGITAL_4 Pin=pus-2
+Added Pin To Net: NetName=NetDIGITAL_6 Pin=pus-3
+Added Pin To Net: NetName=NetDIGITAL_8 Pin=pus-4
+Added Pin To Net: NetName=NetDIGITAL_10 Pin=pus-5
+Added Pin To Net: NetName=NetDIGITAL_12 Pin=pus-6
+Added Pin To Net: NetName=NetDIGITAL_14 Pin=pus-7
+Added Pin To Net: NetName=NetDIGITAL_16 Pin=pus-8
+Added Pin To Net: NetName=NetDIGITAL_18 Pin=pus-9

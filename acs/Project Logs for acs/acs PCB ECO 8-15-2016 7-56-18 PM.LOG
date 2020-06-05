@@ -1,0 +1,13 @@
+Added Component: Designator=acs1(header 3x1)
+Added Component: Designator=C1(cap 1000uf)
+Added Component: Designator=C2(cap 1000uf)
+Added Pin To Net: NetName=GND Pin=acs1-1
+Added Pin To Net: NetName=Netacs1_2 Pin=acs1-2
+Added Pin To Net: NetName=VCC Pin=acs1-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Member To Class: ClassName=acs Member=Component acs1 header 3x1
+Added Member To Class: ClassName=acs Member=Component C1 cap 2200 uf
+Added Member To Class: ClassName=acs Member=Component C2 cap 2200uf

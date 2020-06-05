@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Net74LS86_3 Pin=phi-1
+Added Pin To Net: NetName=GND Pin=phi-1
+Added Pin To Net: NetName=Net74LS86_3 Pin=phi-2

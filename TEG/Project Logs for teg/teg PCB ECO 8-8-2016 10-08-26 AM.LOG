@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C2R-1
+Removed Pin From Net: NetName=GND Pin=C2S-1
+Removed Pin From Net: NetName=GND Pin=C2T-1
+Removed Pin From Net: NetName=NetC1R_2 Pin=lr-1
+Removed Pin From Net: NetName=NetC1S_2 Pin=ls-1
+Removed Pin From Net: NetName=NetC1T_2 Pin=lt-1
+Removed Member From Class: ClassName=teg Member=C2R
+Removed Member From Class: ClassName=teg Member=C2S
+Removed Member From Class: ClassName=teg Member=C2T
+Removed Member From Class: ClassName=teg Member=lr
+Removed Member From Class: ClassName=teg Member=ls
+Removed Member From Class: ClassName=teg Member=lt
+Added Pin To Net: NetName=NetC1R_2 Pin=analog-1
+Added Pin To Net: NetName=NetC1S_2 Pin=analog-2
+Added Pin To Net: NetName=NetC1T_2 Pin=analog-3
+Added Pin To Net: NetName=NetC1R_2 Pin=R1R-2
+Added Pin To Net: NetName=NetC1S_2 Pin=R1S-2
+Added Pin To Net: NetName=NetC1T_2 Pin=R1T-2
+Change Net Name : Old Net Name=NetC1R_2 New Net Name=Netanalog_1
+Change Net Name : Old Net Name=NetC1S_2 New Net Name=Netanalog_2
+Change Net Name : Old Net Name=NetC1T_2 New Net Name=Netanalog_3

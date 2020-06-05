@@ -1,0 +1,9 @@
+Added Component: Designator=FREK(HDR1X2H)
+Added Pin To Net: NetName=Netpwm1_3 Pin=relay-2
+Added Pin To Net: NetName=NetFREK_1 Pin=FREK-1
+Added Pin To Net: NetName=NetFREK_1 Pin=pwm1-6
+Added Net: Name=NetFREK_1
+Added Pin To Net: NetName=NetFREK_2 Pin=FREK-2
+Added Pin To Net: NetName=NetFREK_2 Pin=pwm1-4
+Added Net: Name=NetFREK_2
+Added Member To Class: ClassName=mega module Member=Component FREK Header 2H

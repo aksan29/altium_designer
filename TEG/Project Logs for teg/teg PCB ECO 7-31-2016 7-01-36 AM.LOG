@@ -1,0 +1,22 @@
+Added Component: Designator=S1(AXIAL-0.9)
+Added Component: Designator=S2(AXIAL-0.9)
+Added Component: Designator=S3(AXIAL-0.9)
+Added Component: Designator=T1(AXIAL-0.9)
+Added Component: Designator=T2(AXIAL-0.9)
+Added Component: Designator=T3(AXIAL-0.9)
+Added Pin To Net: NetName=NetC2S_2 Pin=S1-1
+Added Pin To Net: NetName=NetD3R_2 Pin=S2-1
+Added Pin To Net: NetName=NetC2S_2 Pin=S2-2
+Added Pin To Net: NetName=NetD3R_2 Pin=S3-1
+Added Pin To Net: NetName=NetC2S_2 Pin=S3-2
+Added Pin To Net: NetName=NetC2T_2 Pin=T1-1
+Added Pin To Net: NetName=NetD3R_2 Pin=T2-1
+Added Pin To Net: NetName=NetC2T_2 Pin=T2-2
+Added Pin To Net: NetName=NetD3R_2 Pin=T3-1
+Added Pin To Net: NetName=NetC2T_2 Pin=T3-2
+Added Member To Class: ClassName=teg Member=Component S1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T2 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T3 Inductor Iron

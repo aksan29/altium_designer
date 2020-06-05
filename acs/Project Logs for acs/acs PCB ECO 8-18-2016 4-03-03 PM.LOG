@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Netacs_2 Pin=uno analog-5
+Removed Pin From Net: NetName=Netter phi_5 Pin=uno analog-7
+Added Pin To Net: NetName=Netter phi_5 Pin=uno analog-5
+Added Pin To Net: NetName=Netacs_2 Pin=uno analog-7

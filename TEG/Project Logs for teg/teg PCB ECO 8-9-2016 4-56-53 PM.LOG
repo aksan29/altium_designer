@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Netanalog_4 Pin=analog-4
+Added Component: Designator=phi(header 2)
+Added Pin To Net: NetName=NetD1R_2 Pin=phi-1
+Added Pin To Net: NetName=NetD3R_2 Pin=phi-2
+Change Net Name : Old Net Name=Netanalog_4 New Net Name=NetC1T_2
+Added Pin To Net: NetName=Netanalog_4 Pin=analog-4
+Added Net: Name=Netanalog_4
+Added Member To Class: ClassName=teg Member=Component C1T Cap
+Added Member To Class: ClassName=teg Member=Component D1R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D1T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D2T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D3T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4R Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4S Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component D4T Diode 1N4150
+Added Member To Class: ClassName=teg Member=Component phi header 2
+Added Member To Class: ClassName=teg Member=Component R1r RESISTOR
+Added Member To Class: ClassName=teg Member=Component r1s RESISTOR
+Added Member To Class: ClassName=teg Member=Component R1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component r1t RESISTOR
+Added Member To Class: ClassName=teg Member=Component R3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component R4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component S4 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T1 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T3 Inductor Iron
+Added Member To Class: ClassName=teg Member=Component T4 Inductor Iron

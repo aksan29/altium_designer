@@ -1,0 +1,102 @@
+Removed Member From Class: ClassName=MEGA2560 Member=analog
+Removed Member From Class: ClassName=MEGA2560 Member=PWM
+Added Component: Designator=analog1(HDR2X5)
+Added Component: Designator=analog2(HDR2X5)
+Added Component: Designator=PWM1(HDR2X4)
+Added Component: Designator=PWM2(HDR2X4)
+Added Pin To Net: NetName=GND Pin=analog1-1
+Added Pin To Net: NetName=VCC Pin=analog1-2
+Added Pin To Net: NetName=GND Pin=analog2-1
+Added Pin To Net: NetName=VCC Pin=analog2-2
+Added Pin To Net: NetName=GND Pin=PWM1-1
+Added Pin To Net: NetName=VCC Pin=PWM1-2
+Added Pin To Net: NetName=GND Pin=PWM2-1
+Added Pin To Net: NetName=VCC Pin=PWM2-2
+Added Pin To Net: NetName=Netanalog1_3 Pin=analog1-3
+Added Pin To Net: NetName=Netanalog1_3 Pin=T5-1
+Added Net: Name=Netanalog1_3
+Added Pin To Net: NetName=Netanalog1_4 Pin=analog1-4
+Added Pin To Net: NetName=Netanalog1_4 Pin=T5-5
+Added Net: Name=Netanalog1_4
+Added Pin To Net: NetName=Netanalog1_5 Pin=analog1-5
+Added Pin To Net: NetName=Netanalog1_5 Pin=T5-2
+Added Net: Name=Netanalog1_5
+Added Pin To Net: NetName=Netanalog1_6 Pin=analog1-6
+Added Pin To Net: NetName=Netanalog1_6 Pin=T5-6
+Added Net: Name=Netanalog1_6
+Added Pin To Net: NetName=Netanalog1_7 Pin=analog1-7
+Added Pin To Net: NetName=Netanalog1_7 Pin=T5-3
+Added Net: Name=Netanalog1_7
+Added Pin To Net: NetName=Netanalog1_8 Pin=analog1-8
+Added Pin To Net: NetName=Netanalog1_8 Pin=T5-7
+Added Net: Name=Netanalog1_8
+Added Pin To Net: NetName=Netanalog1_9 Pin=analog1-9
+Added Pin To Net: NetName=Netanalog1_9 Pin=T5-4
+Added Net: Name=Netanalog1_9
+Added Pin To Net: NetName=Netanalog1_10 Pin=analog1-10
+Added Pin To Net: NetName=Netanalog1_10 Pin=T5-8
+Added Net: Name=Netanalog1_10
+Added Pin To Net: NetName=Netanalog2_3 Pin=analog2-3
+Added Pin To Net: NetName=Netanalog2_3 Pin=T4-1
+Added Net: Name=Netanalog2_3
+Added Pin To Net: NetName=Netanalog2_4 Pin=analog2-4
+Added Pin To Net: NetName=Netanalog2_4 Pin=T4-5
+Added Net: Name=Netanalog2_4
+Added Pin To Net: NetName=Netanalog2_5 Pin=analog2-5
+Added Pin To Net: NetName=Netanalog2_5 Pin=T4-2
+Added Net: Name=Netanalog2_5
+Added Pin To Net: NetName=Netanalog2_6 Pin=analog2-6
+Added Pin To Net: NetName=Netanalog2_6 Pin=T4-6
+Added Net: Name=Netanalog2_6
+Added Pin To Net: NetName=Netanalog2_7 Pin=analog2-7
+Added Pin To Net: NetName=Netanalog2_7 Pin=T4-3
+Added Net: Name=Netanalog2_7
+Added Pin To Net: NetName=Netanalog2_8 Pin=analog2-8
+Added Pin To Net: NetName=Netanalog2_8 Pin=T4-7
+Added Net: Name=Netanalog2_8
+Added Pin To Net: NetName=Netanalog2_9 Pin=analog2-9
+Added Pin To Net: NetName=Netanalog2_9 Pin=T4-4
+Added Net: Name=Netanalog2_9
+Added Pin To Net: NetName=Netanalog2_10 Pin=analog2-10
+Added Pin To Net: NetName=Netanalog2_10 Pin=T4-8
+Added Net: Name=Netanalog2_10
+Added Pin To Net: NetName=NetPWM1_3 Pin=PWM1-3
+Added Pin To Net: NetName=NetPWM1_3 Pin=T2-3
+Added Net: Name=NetPWM1_3
+Added Pin To Net: NetName=NetPWM1_4 Pin=PWM1-4
+Added Pin To Net: NetName=NetPWM1_4 Pin=T2-6
+Added Net: Name=NetPWM1_4
+Added Pin To Net: NetName=NetPWM1_5 Pin=PWM1-5
+Added Pin To Net: NetName=NetPWM1_5 Pin=T2-4
+Added Net: Name=NetPWM1_5
+Added Pin To Net: NetName=NetPWM1_6 Pin=PWM1-6
+Added Pin To Net: NetName=NetPWM1_6 Pin=T2-7
+Added Net: Name=NetPWM1_6
+Added Pin To Net: NetName=NetPWM1_7 Pin=PWM1-7
+Added Pin To Net: NetName=NetPWM1_7 Pin=T2-5
+Added Net: Name=NetPWM1_7
+Added Pin To Net: NetName=NetPWM1_8 Pin=PWM1-8
+Added Pin To Net: NetName=NetPWM1_8 Pin=T2-8
+Added Net: Name=NetPWM1_8
+Added Pin To Net: NetName=NetPWM2_3 Pin=PWM2-3
+Added Pin To Net: NetName=NetPWM2_3 Pin=T3-1
+Added Net: Name=NetPWM2_3
+Added Pin To Net: NetName=NetPWM2_4 Pin=PWM2-4
+Added Pin To Net: NetName=NetPWM2_4 Pin=T3-4
+Added Net: Name=NetPWM2_4
+Added Pin To Net: NetName=NetPWM2_5 Pin=PWM2-5
+Added Pin To Net: NetName=NetPWM2_5 Pin=T3-2
+Added Net: Name=NetPWM2_5
+Added Pin To Net: NetName=NetPWM2_6 Pin=PWM2-6
+Added Pin To Net: NetName=NetPWM2_6 Pin=T3-5
+Added Net: Name=NetPWM2_6
+Added Pin To Net: NetName=NetPWM2_7 Pin=PWM2-7
+Added Pin To Net: NetName=NetPWM2_7 Pin=T3-3
+Added Net: Name=NetPWM2_7
+Added Pin To Net: NetName=NetPWM2_8 Pin=PWM2-8
+Added Pin To Net: NetName=NetPWM2_8 Pin=T3-6
+Added Net: Name=NetPWM2_8
+Added Member To Class: ClassName=MEGA2560 Member=Component analog1 Header 5X2
+Added Member To Class: ClassName=MEGA2560 Member=Component analog2 Header 5X2
+Added Member To Class: ClassName=MEGA2560 Member=Component PWM1 Header 4X2
+Added Member To Class: ClassName=MEGA2560 Member=Component PWM2 Header 4X2

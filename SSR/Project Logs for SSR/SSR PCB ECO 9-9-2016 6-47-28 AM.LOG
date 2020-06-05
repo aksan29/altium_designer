@@ -1,0 +1,45 @@
+Added Component: Designator=nano digi2(HDR2X4)
+Added Component: Designator=rR(RESISTOR - duplicate)
+Added Component: Designator=rS(RESISTOR - duplicate)
+Added Component: Designator=R(led_3mm)
+Added Component: Designator=rT(RESISTOR - duplicate)
+Added Component: Designator=S(led_3mm)
+Added Component: Designator=Ter(HDR1X4)
+Added Component: Designator=T(led_3mm)
+Added Pin To Net: NetName=GND Pin=nano digi2-1
+Added Pin To Net: NetName=GND Pin=R-1
+Added Pin To Net: NetName=GND Pin=S-1
+Added Pin To Net: NetName=GND Pin=T-1
+Added Pin To Net: NetName=GND Pin=Ter-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Netnano digi2_3 Pin=nano digi2-3
+Added Pin To Net: NetName=Netnano digi2_3 Pin=Ter-2
+Added Net: Name=Netnano digi2_3
+Added Pin To Net: NetName=Netnano digi2_4 Pin=nano digi2-4
+Added Pin To Net: NetName=Netnano digi2_4 Pin=rR-1
+Added Net: Name=Netnano digi2_4
+Added Pin To Net: NetName=Netnano digi2_5 Pin=nano digi2-5
+Added Pin To Net: NetName=Netnano digi2_5 Pin=Ter-3
+Added Net: Name=Netnano digi2_5
+Added Pin To Net: NetName=Netnano digi2_6 Pin=nano digi2-6
+Added Pin To Net: NetName=Netnano digi2_6 Pin=rS-1
+Added Net: Name=Netnano digi2_6
+Added Pin To Net: NetName=Netnano digi2_7 Pin=nano digi2-7
+Added Pin To Net: NetName=Netnano digi2_7 Pin=Ter-4
+Added Net: Name=Netnano digi2_7
+Added Pin To Net: NetName=Netnano digi2_8 Pin=nano digi2-8
+Added Pin To Net: NetName=Netnano digi2_8 Pin=rT-1
+Added Net: Name=Netnano digi2_8
+Added Pin To Net: NetName=NetR_2 Pin=R-2
+Added Pin To Net: NetName=NetR_2 Pin=rR-2
+Added Net: Name=NetR_2
+Added Pin To Net: NetName=NetrS_2 Pin=rS-2
+Added Pin To Net: NetName=NetrS_2 Pin=S-2
+Added Net: Name=NetrS_2
+Added Pin To Net: NetName=NetrT_2 Pin=rT-2
+Added Pin To Net: NetName=NetrT_2 Pin=T-2
+Added Net: Name=NetrT_2
+Added Pin To Net: NetName=VCC Pin=nano digi2-2
+Added Net: Name=VCC
+Added Class: Name=SSR
+Added Room: Name=SSR

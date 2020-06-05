@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=nano digi2-1
+Removed Pin From Net: NetName=GND Pin=R-1
+Removed Pin From Net: NetName=GND Pin=S-1
+Removed Pin From Net: NetName=GND Pin=T-1
+Removed Pin From Net: NetName=GND Pin=Ter-1
+Removed Member From Class: ClassName=SSR Member=nano digi2
+Removed Member From Class: ClassName=SSR Member=R
+Removed Member From Class: ClassName=SSR Member=rR
+Removed Member From Class: ClassName=SSR Member=rS
+Removed Member From Class: ClassName=SSR Member=rT
+Removed Member From Class: ClassName=SSR Member=S
+Removed Member From Class: ClassName=SSR Member=Ter
+Removed Member From Class: ClassName=SSR Member=T
+Added Component: Designator=*(header 3x1)
+Added Component: Designator=*(header 3x1)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(cap 1000uf)
+Added Component: Designator=*(RESISTOR - duplicate)
+Added Component: Designator=*(RESISTOR - duplicate)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Component: Designator=*(diode)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=SSR Member=Component * header 3x1

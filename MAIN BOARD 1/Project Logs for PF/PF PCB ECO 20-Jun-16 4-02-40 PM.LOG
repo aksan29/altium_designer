@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VSENSOR Pin=LED SENS-1
+Change Component Designator: OldDesignator=LED SENS NewDesignator=LED RELAY
+Change Component Designator: OldDesignator=RON NewDesignator=RM
+Change Component Designator: OldDesignator=RPWR NewDesignator=RR
+Change Component Designator: OldDesignator=RPWR NewDesignator=RS
+Added Pin To Net: NetName=VRELAY Pin=LED RELAY-1
+Added Pin To Net: NetName=VSENSOR Pin=LED SENS-1
+Added Pin To Net: NetName=GND Pin=RS-1
+Change Net Name : Old Net Name=NetLED SENS_2 New Net Name=NetLED RELAY_2
+Added Pin To Net: NetName=NetLED SENS_2 Pin=LED SENS-2
+Added Pin To Net: NetName=NetLED SENS_2 Pin=RS-2
+Added Net: Name=NetLED SENS_2
+Added Member To Class: ClassName=PF Member=Component LED RELAY LED0
+Added Member To Class: ClassName=PF Member=Component RR Res1

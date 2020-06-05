@@ -1,0 +1,8 @@
+Added Component: Designator=5(push button)
+Added Component: Designator=6(push button)
+Added Component: Designator=7(push button)
+Added Component: Designator=8(push button)
+Added Member To Class: ClassName=push B Member=Component 5 push button
+Added Member To Class: ClassName=push B Member=Component 6 push button
+Added Member To Class: ClassName=push B Member=Component 7 push button
+Added Member To Class: ClassName=push B Member=Component 8 push button

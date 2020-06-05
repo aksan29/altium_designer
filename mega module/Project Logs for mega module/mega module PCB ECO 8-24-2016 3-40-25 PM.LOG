@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AD8 Pin=analog 2-3
+Removed Pin From Net: NetName=AD12 Pin=analog 2-4
+Removed Pin From Net: NetName=AD9 Pin=analog 2-5
+Removed Pin From Net: NetName=AD13 Pin=analog 2-6
+Removed Pin From Net: NetName=AD10 Pin=analog 2-7
+Removed Pin From Net: NetName=AD14 Pin=analog 2-8
+Removed Pin From Net: NetName=AD11 Pin=analog 2-9
+Removed Pin From Net: NetName=AD15 Pin=analog 2-10
+Added Pin To Net: NetName=AD12 Pin=analog 2-3
+Added Pin To Net: NetName=AD11 Pin=analog 2-4
+Added Pin To Net: NetName=AD13 Pin=analog 2-5
+Added Pin To Net: NetName=AD10 Pin=analog 2-6
+Added Pin To Net: NetName=AD14 Pin=analog 2-7
+Added Pin To Net: NetName=AD9 Pin=analog 2-8
+Added Pin To Net: NetName=AD15 Pin=analog 2-9
+Added Pin To Net: NetName=AD8 Pin=analog 2-10

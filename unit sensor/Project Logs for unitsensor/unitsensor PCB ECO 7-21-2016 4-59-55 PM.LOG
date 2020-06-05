@@ -1,0 +1,15 @@
+Added Component: Designator=vacin(terminal block)
+Added Component: Designator=vacplc(terminal block)
+Added Component: Designator=vacsens(terminal block)
+Added Pin To Net: NetName=Netvacin_1 Pin=vacin-1
+Added Pin To Net: NetName=Netvacin_1 Pin=vacplc-1
+Added Pin To Net: NetName=Netvacin_1 Pin=vacsens-1
+Added Net: Name=Netvacin_1
+Added Pin To Net: NetName=Netvacin_2 Pin=vacin-2
+Added Net: Name=Netvacin_2
+Added Pin To Net: NetName=Netvacplc_2 Pin=vacplc-2
+Added Pin To Net: NetName=Netvacplc_2 Pin=vacsens-2
+Added Net: Name=Netvacplc_2
+Added Member To Class: ClassName=Unitsensor Member=Component vacin terminal block 2 pin
+Added Member To Class: ClassName=Unitsensor Member=Component vacplc terminal block 2 pin
+Added Member To Class: ClassName=Unitsensor Member=Component vacsens terminal block 2 pin

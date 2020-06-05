@@ -1,0 +1,3 @@
+ukuran acs mau digeser
+tidak ada vcc gnd sumber
+zmpt terbalik input vcc gnd nya

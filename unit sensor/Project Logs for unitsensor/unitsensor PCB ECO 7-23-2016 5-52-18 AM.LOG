@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=* NewDesignator=vin
+Added Component: Designator=D?(DO-41)
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Member To Class: ClassName=Unitsensor Member=Component D? Diode 1N4001

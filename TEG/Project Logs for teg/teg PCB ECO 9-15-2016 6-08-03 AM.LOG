@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Netb_2 Pin=b-2
+Removed Member From Class: ClassName=teg Member=a
+Removed Member From Class: ClassName=teg Member=b
+Change Net Name : Old Net Name=Netb_2 New Net Name=NetD1R_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_2 Pin=S2-2
+Added Net: Name=NetS1_2
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=T2-2
+Added Net: Name=NetT1_2

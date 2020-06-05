@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetD9_2 Pin=FREQ-1
+Removed Pin From Net: NetName=NetD9_2 Pin=FREQ-2
+Removed Pin From Net: NetName=GND Pin=IN-1
+Removed Pin From Net: NetName=VCC Pin=IN-2
+Removed Pin From Net: NetName=NetLS7486_3 Pin=METERING-1
+Removed Pin From Net: NetName=NetLS7486_3 Pin=METERING-2
+Removed Pin From Net: NetName=NetD6_2 Pin=METERING-3
+Removed Pin From Net: NetName=NetD6_2 Pin=METERING-4
+Removed Pin From Net: NetName=NetD7_2 Pin=METERING-5
+Removed Pin From Net: NetName=NetD7_2 Pin=METERING-6
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING-7
+Removed Pin From Net: NetName=NetACS712_2 Pin=METERING-8
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-9
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-10
+Removed Member From Class: ClassName=Sheet2 Member=METERING
+Added Component: Designator=METERING1(HDR1X9)
+Added Component: Designator=METERING2(HDR1X9)
+Added Component: Designator=R8(RESISTOR - duplicate)
+Added Pin To Net: NetName=GND Pin=METERING1-1
+Added Pin To Net: NetName=VCC Pin=METERING1-2
+Added Pin To Net: NetName=NetD9_2 Pin=METERING1-3
+Added Pin To Net: NetName=NetC1_1 Pin=METERING1-4
+Added Pin To Net: NetName=NetD1_2 Pin=METERING1-5
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING1-6
+Added Pin To Net: NetName=NetD7_2 Pin=METERING1-7
+Added Pin To Net: NetName=NetD6_2 Pin=METERING1-8
+Added Pin To Net: NetName=NetLS7486_3 Pin=METERING1-9
+Added Pin To Net: NetName=NetLS7486_3 Pin=METERING2-1
+Added Pin To Net: NetName=NetD6_2 Pin=METERING2-2
+Added Pin To Net: NetName=NetD7_2 Pin=METERING2-3
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING2-4
+Added Pin To Net: NetName=NetD1_2 Pin=METERING2-5
+Added Pin To Net: NetName=NetC1_1 Pin=METERING2-6
+Added Pin To Net: NetName=NetD9_2 Pin=METERING2-7
+Added Pin To Net: NetName=VCC Pin=METERING2-8
+Added Pin To Net: NetName=GND Pin=METERING2-9
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetC1_1 Pin=R8-2
+Added Member To Class: ClassName=Sheet2 Member=Component METERING1 Header 9
+Added Member To Class: ClassName=Sheet2 Member=Component METERING2 Header 9
+Added Member To Class: ClassName=Sheet2 Member=Component R8 Res1

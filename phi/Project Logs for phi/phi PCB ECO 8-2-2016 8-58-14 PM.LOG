@@ -1,0 +1,81 @@
+Added Component: Designator=74LS86(DIP-14)
+Added Component: Designator=arus(HDR1X2)
+Added Component: Designator=d5phi(diode)
+Added Component: Designator=d6phi(diode)
+Added Component: Designator=LM339(DIP-14)
+Added Component: Designator=OPTO 1(DIP-6)
+Added Component: Designator=OPTO 2(DIP-6)
+Added Component: Designator=phi(HDR1X2)
+Added Component: Designator=r1(RESISTOR - duplicate)
+Added Component: Designator=r2(AXIAL-0.3)
+Added Component: Designator=r3(AXIAL-0.3)
+Added Component: Designator=r4(AXIAL-0.3)
+Added Component: Designator=r5(AXIAL-0.3)
+Added Component: Designator=r6(AXIAL-0.3)
+Added Component: Designator=r7(AXIAL-0.3)
+Added Component: Designator=r8(AXIAL-0.3)
+Added Component: Designator=tegangan(HDR1X2)
+Added Pin To Net: NetName=GND Pin=74LS86-7
+Added Pin To Net: NetName=GND Pin=arus-1
+Added Pin To Net: NetName=GND Pin=LM339-12
+Added Pin To Net: NetName=GND Pin=OPTO 1-2
+Added Pin To Net: NetName=GND Pin=OPTO 1-4
+Added Pin To Net: NetName=GND Pin=OPTO 2-2
+Added Pin To Net: NetName=GND Pin=OPTO 2-4
+Added Pin To Net: NetName=GND Pin=phi-2
+Added Pin To Net: NetName=GND Pin=r3-1
+Added Pin To Net: NetName=GND Pin=r4-2
+Added Pin To Net: NetName=GND Pin=r6-1
+Added Pin To Net: NetName=GND Pin=r8-1
+Added Pin To Net: NetName=GND Pin=tegangan-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net74LS86_1 Pin=74LS86-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=r7-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=r8-2
+Added Net: Name=Net74LS86_1
+Added Pin To Net: NetName=Net74LS86_2 Pin=74LS86-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=r5-1
+Added Pin To Net: NetName=Net74LS86_2 Pin=r6-2
+Added Net: Name=Net74LS86_2
+Added Pin To Net: NetName=Net74LS86_3 Pin=74LS86-3
+Added Pin To Net: NetName=Net74LS86_3 Pin=phi-1
+Added Net: Name=Net74LS86_3
+Added Pin To Net: NetName=Netarus_2 Pin=arus-2
+Added Pin To Net: NetName=Netarus_2 Pin=OPTO 1-1
+Added Net: Name=Netarus_2
+Added Pin To Net: NetName=Netd5phi_1 Pin=d5phi-1
+Added Pin To Net: NetName=Netd5phi_1 Pin=LM339-2
+Added Net: Name=Netd5phi_1
+Added Pin To Net: NetName=Netd5phi_2 Pin=d5phi-2
+Added Pin To Net: NetName=Netd5phi_2 Pin=r7-2
+Added Net: Name=Netd5phi_2
+Added Pin To Net: NetName=Netd6phi_1 Pin=d6phi-1
+Added Pin To Net: NetName=Netd6phi_1 Pin=LM339-1
+Added Net: Name=Netd6phi_1
+Added Pin To Net: NetName=Netd6phi_2 Pin=d6phi-2
+Added Pin To Net: NetName=Netd6phi_2 Pin=r5-2
+Added Net: Name=Netd6phi_2
+Added Pin To Net: NetName=NetLM339_4 Pin=LM339-4
+Added Pin To Net: NetName=NetLM339_4 Pin=r3-2
+Added Net: Name=NetLM339_4
+Added Pin To Net: NetName=NetLM339_5 Pin=LM339-5
+Added Pin To Net: NetName=NetLM339_5 Pin=OPTO 1-5
+Added Pin To Net: NetName=NetLM339_5 Pin=r1-1
+Added Net: Name=NetLM339_5
+Added Pin To Net: NetName=NetLM339_6 Pin=LM339-6
+Added Pin To Net: NetName=NetLM339_6 Pin=r4-1
+Added Net: Name=NetLM339_6
+Added Pin To Net: NetName=NetLM339_7 Pin=LM339-7
+Added Pin To Net: NetName=NetLM339_7 Pin=OPTO 2-5
+Added Pin To Net: NetName=NetLM339_7 Pin=r2-1
+Added Net: Name=NetLM339_7
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=OPTO 2-1
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=tegangan-2
+Added Net: Name=NetOPTO 2_1
+Added Pin To Net: NetName=VCC Pin=74LS86-14
+Added Pin To Net: NetName=VCC Pin=LM339-3
+Added Pin To Net: NetName=VCC Pin=r1-2
+Added Pin To Net: NetName=VCC Pin=r2-2
+Added Net: Name=VCC
+Added Class: Name=phi
+Added Room: Name=phi

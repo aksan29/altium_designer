@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Netac_2 Pin=ac-2
+Removed Pin From Net: NetName=Netac_1 Pin=F1-1
+Removed Member From Class: ClassName=Sheet1 Member=vin 9
+Change Component Designator: OldDesignator=ac NewDesignator=plc.1
+Change Component Designator: OldDesignator=plc NewDesignator=plc.2
+Change Component Designator: OldDesignator=vin 9 NewDesignator=ac
+Added Pin To Net: NetName=Netac_1 Pin=ac-1
+Added Pin To Net: NetName=Netac_2 Pin=F1-2
+Change Net Name : Old Net Name=Netplc_1 New Net Name=Netplc.2_1
+Change Net Name : Old Net Name=Netplc_2 New Net Name=Netplc.2_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=plc.1-2
+Added Net: Name=NetF1_1
+Added Member To Class: ClassName=Sheet1 Member=Component plc.1 terminal block 2 pin

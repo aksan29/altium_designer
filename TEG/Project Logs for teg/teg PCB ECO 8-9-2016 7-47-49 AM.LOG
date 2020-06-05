@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=R/S-1
+Removed Pin From Net: NetName=NetT1_2 Pin=T/N-1
+Removed Pin From Net: NetName=NetD1R_2 Pin=T/N-2
+Removed Member From Class: ClassName=teg Member=R/S
+Removed Member From Class: ClassName=teg Member=T/N
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_2 Pin=S2-2
+Added Net: Name=NetS1_2

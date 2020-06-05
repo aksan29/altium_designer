@@ -1,0 +1,25 @@
+Added Component: Designator=acs1(header 3x1)
+Added Component: Designator=acs2(header 3x1)
+Added Component: Designator=acs3(header 3x1)
+Added Component: Designator=analog1(header 3x1)
+Added Component: Designator=vin(header 2)
+Added Pin To Net: NetName=GND Pin=acs1-1
+Added Pin To Net: NetName=Netacs1_2 Pin=acs1-2
+Added Pin To Net: NetName=VCC Pin=acs1-3
+Added Pin To Net: NetName=GND Pin=acs2-1
+Added Pin To Net: NetName=Netacs2_2 Pin=acs2-2
+Added Pin To Net: NetName=VCC Pin=acs2-3
+Added Pin To Net: NetName=GND Pin=acs3-1
+Added Pin To Net: NetName=Netacs3_2 Pin=acs3-2
+Added Pin To Net: NetName=VCC Pin=acs3-3
+Added Pin To Net: NetName=Netacs1_2 Pin=analog1-1
+Added Pin To Net: NetName=Netacs2_2 Pin=analog1-2
+Added Pin To Net: NetName=Netacs3_2 Pin=analog1-3
+Added Pin To Net: NetName=GND Pin=vin-1
+Added Pin To Net: NetName=VCC Pin=vin-2
+Added Member To Class: ClassName=acs Member=Component acs1 header 3x1
+Added Member To Class: ClassName=acs Member=Component acs2 header 3x1
+Added Member To Class: ClassName=acs Member=Component acs3 header 3x1
+Added Member To Class: ClassName=acs Member=Component analog1 header 3x1
+Added Member To Class: ClassName=acs Member=Component vin header 2
+Added Room: Name=acs

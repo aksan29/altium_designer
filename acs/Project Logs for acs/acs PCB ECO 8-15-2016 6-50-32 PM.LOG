@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=trafo NewDesignator=freq
+Change Net Name : Old Net Name=NetRF1_2 New Net Name=Netfreq_2
+Change Net Name : Old Net Name=NetRF2_1 New Net Name=Netfreq_1

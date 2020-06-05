@@ -1,0 +1,5 @@
+Added Component: Designator=i2c(HDR1X6)
+Added Pin To Net: NetName=GND Pin=i2c-1
+Added Pin To Net: NetName=VCC Pin=i2c-2
+Added Pin To Net: NetName=NetCOMMS_2 Pin=i2c-3
+Added Member To Class: ClassName=mega module Member=Component i2c Header 6

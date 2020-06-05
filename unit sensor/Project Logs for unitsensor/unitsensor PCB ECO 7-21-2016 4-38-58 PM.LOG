@@ -1,0 +1,73 @@
+Added Pin To Net: NetName=Net74LS86_1 Pin=74LS86-1
+Added Pin To Net: NetName=Net74LS86_2 Pin=74LS86-2
+Added Pin To Net: NetName=Net74LS86_3 Pin=74LS86-3
+Added Pin To Net: NetName=GND Pin=74LS86-7
+Added Pin To Net: NetName=VCC Pin=74LS86-14
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetC1_2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetC1_2 Pin=D4-2
+Added Pin To Net: NetName=Netd5_1 Pin=d5-1
+Added Pin To Net: NetName=Netd5_2 Pin=d5-2
+Added Pin To Net: NetName=Netd6_1 Pin=d6-1
+Added Pin To Net: NetName=Netd6_2 Pin=d6-2
+Added Pin To Net: NetName=Netd6_1 Pin=LM339-1
+Added Pin To Net: NetName=Netd5_1 Pin=LM339-2
+Added Pin To Net: NetName=VCC Pin=LM339-3
+Added Pin To Net: NetName=NetLM339_4 Pin=LM339-4
+Added Pin To Net: NetName=NetLM339_5 Pin=LM339-5
+Added Pin To Net: NetName=NetLM339_6 Pin=LM339-6
+Added Pin To Net: NetName=NetLM339_7 Pin=LM339-7
+Added Pin To Net: NetName=GND Pin=LM339-12
+Added Pin To Net: NetName=NetD1_2 Pin=OPTO 1-1
+Added Pin To Net: NetName=GND Pin=OPTO 1-2
+Added Pin To Net: NetName=GND Pin=OPTO 1-4
+Added Pin To Net: NetName=NetLM339_5 Pin=OPTO 1-5
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=OPTO 2-1
+Added Pin To Net: NetName=GND Pin=OPTO 2-2
+Added Pin To Net: NetName=GND Pin=OPTO 2-4
+Added Pin To Net: NetName=NetLM339_7 Pin=OPTO 2-5
+Added Pin To Net: NetName=NetLM339_5 Pin=r1-1
+Added Pin To Net: NetName=VCC Pin=r1-2
+Added Pin To Net: NetName=NetLM339_7 Pin=r2-1
+Added Pin To Net: NetName=VCC Pin=r2-2
+Added Pin To Net: NetName=GND Pin=r3-1
+Added Pin To Net: NetName=NetLM339_4 Pin=r3-2
+Added Pin To Net: NetName=NetLM339_6 Pin=r4-1
+Added Pin To Net: NetName=GND Pin=r4-2
+Added Pin To Net: NetName=Net74LS86_2 Pin=r5-1
+Added Pin To Net: NetName=Netd6_2 Pin=r5-2
+Added Pin To Net: NetName=GND Pin=r6-1
+Added Pin To Net: NetName=Net74LS86_2 Pin=r6-2
+Added Pin To Net: NetName=Net74LS86_1 Pin=r7-1
+Added Pin To Net: NetName=Netd5_2 Pin=r7-2
+Added Pin To Net: NetName=GND Pin=r8-1
+Added Pin To Net: NetName=Net74LS86_1 Pin=r8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetC1_2 Pin=R9-2
+Added Member To Class: ClassName=Unitsensor Member=Component 74LS86 SW DIP-7
+Added Member To Class: ClassName=Unitsensor Member=Component C1 Cap
+Added Member To Class: ClassName=Unitsensor Member=Component D1 Diode 1N4150
+Added Member To Class: ClassName=Unitsensor Member=Component D2 Diode 1N4150
+Added Member To Class: ClassName=Unitsensor Member=Component D3 Diode 1N4150
+Added Member To Class: ClassName=Unitsensor Member=Component D4 Diode 1N4150
+Added Member To Class: ClassName=Unitsensor Member=Component d5 Diode 1N4002
+Added Member To Class: ClassName=Unitsensor Member=Component d6 Diode 1N4002
+Added Member To Class: ClassName=Unitsensor Member=Component LM339 SW DIP-7
+Added Member To Class: ClassName=Unitsensor Member=Component OPTO 1 SW DIP-3
+Added Member To Class: ClassName=Unitsensor Member=Component OPTO 2 SW DIP-3
+Added Member To Class: ClassName=Unitsensor Member=Component r1 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r2 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r3 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r4 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r5 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r6 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r7 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component r8 Res1
+Added Member To Class: ClassName=Unitsensor Member=Component R9 Res1

@@ -1,0 +1,16 @@
+Added Component: Designator=Analog t 1(HDR1X8)
+Added Pin To Net: NetName=Netanalog 1_3 Pin=analog 1-3
+Added Pin To Net: NetName=Netanalog 1_3 Pin=Analog t 1-1
+Added Net: Name=Netanalog 1_3
+Added Pin To Net: NetName=Netanalog 1_5 Pin=analog 1-5
+Added Pin To Net: NetName=Netanalog 1_5 Pin=Analog t 1-2
+Added Net: Name=Netanalog 1_5
+Added Pin To Net: NetName=Netanalog 1_7 Pin=analog 1-7
+Added Pin To Net: NetName=Netanalog 1_7 Pin=Analog t 1-3
+Added Net: Name=Netanalog 1_7
+Added Pin To Net: NetName=Netanalog 1_9 Pin=analog 1-9
+Added Pin To Net: NetName=Netanalog 1_9 Pin=Analog t 1-4
+Added Net: Name=Netanalog 1_9
+Added Member To Class: ClassName=mega module Member=Component AD_H
+Added Member To Class: ClassName=mega module Member=Component analog 2 HEADER 2x5
+Added Member To Class: ClassName=mega module Member=Component Analog t 1 Header 8

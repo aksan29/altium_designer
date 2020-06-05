@@ -1,0 +1,47 @@
+Change Component Designator: OldDesignator=* NewDesignator=1
+Change Component Designator: OldDesignator=* NewDesignator=2
+Change Component Designator: OldDesignator=* NewDesignator=3
+Change Component Designator: OldDesignator=* NewDesignator=4
+Change Component Designator: OldDesignator=* NewDesignator=5
+Change Component Designator: OldDesignator=* NewDesignator=c1
+Change Component Designator: OldDesignator=* NewDesignator=r1
+Change Component Designator: OldDesignator=* NewDesignator=r2
+Change Component Designator: OldDesignator=* NewDesignator=t1
+Change Component Designator: OldDesignator=* NewDesignator=t2
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=GND Pin=3-1
+Added Pin To Net: NetName=GND Pin=c1-1
+Added Pin To Net: NetName=GND Pin=r1-2
+Added Pin To Net: NetName=GND Pin=t2-1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=2-1
+Added Pin To Net: NetName=Net1_2 Pin=t1-2
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=Net2_2 Pin=2-2
+Added Pin To Net: NetName=Net2_2 Pin=4-2
+Added Pin To Net: NetName=Net2_2 Pin=r2-1
+Added Net: Name=Net2_2
+Added Pin To Net: NetName=Net3_2 Pin=3-2
+Added Pin To Net: NetName=Net3_2 Pin=4-1
+Added Pin To Net: NetName=Net3_2 Pin=t1-1
+Added Net: Name=Net3_2
+Added Pin To Net: NetName=Net5_1 Pin=5-1
+Added Pin To Net: NetName=Net5_1 Pin=t1-3
+Added Net: Name=Net5_1
+Added Pin To Net: NetName=Net5_2 Pin=5-2
+Added Pin To Net: NetName=Net5_2 Pin=t2-3
+Added Net: Name=Net5_2
+Added Pin To Net: NetName=Netc1_2 Pin=c1-2
+Added Pin To Net: NetName=Netc1_2 Pin=r1-1
+Added Pin To Net: NetName=Netc1_2 Pin=r2-2
+Added Pin To Net: NetName=Netc1_2 Pin=t2-2
+Added Net: Name=Netc1_2
+Added Member To Class: ClassName=SSR Member=Component 1 DIODA
+Added Member To Class: ClassName=SSR Member=Component 2 DIODA
+Added Member To Class: ClassName=SSR Member=Component 3 DIODA
+Added Member To Class: ClassName=SSR Member=Component 4 DIODA
+Added Member To Class: ClassName=SSR Member=Component 5 DIODA
+Added Member To Class: ClassName=SSR Member=Component c1 cap 1000uf
+Added Member To Class: ClassName=SSR Member=Component r1 RESISTOR
+Added Member To Class: ClassName=SSR Member=Component r2 RESISTOR
+Added Member To Class: ClassName=SSR Member=Component t2 header 3x1

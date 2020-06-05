@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR_2 Pin=Designator241-4
+Removed Pin From Net: NetName=GND Pin=Designator241-5
+Removed Pin From Net: NetName=NetrS_2 Pin=Designator241-9
+Removed Pin From Net: NetName=GND Pin=Designator241-10
+Removed Pin From Net: NetName=NetrT_2 Pin=Designator241-13
+Removed Pin From Net: NetName=GND Pin=Designator241-14
+Removed Pin From Net: NetName=Netnano digi2_4 Pin=rR-1
+Removed Pin From Net: NetName=Netnano digi2_6 Pin=rS-1
+Removed Pin From Net: NetName=Netnano digi2_8 Pin=rT-1
+Removed Pin From Net: NetName=Netnano digi2_3 Pin=Ter-2
+Removed Pin From Net: NetName=Netnano digi2_5 Pin=Ter-3
+Removed Pin From Net: NetName=Netnano digi2_7 Pin=Ter-4
+Added Pin To Net: NetName=Netnano digi2_3 Pin=rR-1
+Added Pin To Net: NetName=Netnano digi2_5 Pin=rS-1
+Added Pin To Net: NetName=Netnano digi2_7 Pin=rT-1
+Added Pin To Net: NetName=Netnano digi2_8 Pin=Ter-2
+Added Pin To Net: NetName=Netnano digi2_6 Pin=Ter-3
+Added Pin To Net: NetName=Netnano digi2_4 Pin=Ter-4

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=ZMPT-1
+Removed Pin From Net: NetName=GND Pin=ZMPT-3
+Added Component: Designator=IN(header 2)
+Added Pin To Net: NetName=GND Pin=IN-1
+Added Pin To Net: NetName=VCC Pin=IN-2
+Added Pin To Net: NetName=GND Pin=ZMPT-1
+Added Pin To Net: NetName=VCC Pin=ZMPT-3
+Added Member To Class: ClassName=Sheet2 Member=Component IN Header 2

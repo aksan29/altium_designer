@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Netdigital_1 Pin=T7-15
+Removed Pin From Net: NetName=NetDIGITAL_3 Pin=T7-17
+Removed Pin From Net: NetName=NetDIGITAL_5 Pin=T7-19
+Removed Pin From Net: NetName=NetDIGITAL_7 Pin=T7-21
+Removed Pin From Net: NetName=NetDIGITAL_9 Pin=T7-23
+Removed Pin From Net: NetName=Netdigital_2 Pin=T7-25
+Removed Pin From Net: NetName=NetDIGITAL_4 Pin=T7-27
+Removed Pin From Net: NetName=NetDIGITAL_6 Pin=T7-29
+Removed Pin From Net: NetName=NetDIGITAL_8 Pin=T7-31
+Removed Pin From Net: NetName=NetDIGITAL_10 Pin=T7-33
+Removed Pin From Net: NetName=GND Pin=T7-35
+Change Component DesignItemId : Designator=T7 Old DesignItemId=Header 18X2 New DesignItemId=Header 18
+Change Component Footprint: Designator=T7 Old Footprint=HDR2X18 New Footprint=HDR1X18
+Change Component Comment : Designator=T7 Old Comment=Header 18X2 New Comment=Header 18
+Added Pin To Net: NetName=GND Pin=T7-18
+Added Pin To Net: NetName=NetT7_2 Pin=T7-2
+Added Net: Name=NetT7_2
+Added Pin To Net: NetName=NetT7_4 Pin=T7-4
+Added Net: Name=NetT7_4
+Added Pin To Net: NetName=NetT7_6 Pin=T7-6
+Added Net: Name=NetT7_6
+Added Pin To Net: NetName=NetT7_8 Pin=T7-8
+Added Net: Name=NetT7_8
+Added Pin To Net: NetName=NetT7_10 Pin=T7-10
+Added Net: Name=NetT7_10
+Added Pin To Net: NetName=NetT7_12 Pin=T7-12
+Added Net: Name=NetT7_12
+Added Pin To Net: NetName=NetT7_14 Pin=T7-14
+Added Net: Name=NetT7_14
+Added Pin To Net: NetName=NetT7_15 Pin=T7-15
+Added Net: Name=NetT7_15
+Added Pin To Net: NetName=NetT7_16 Pin=T7-16
+Added Net: Name=NetT7_16
+Added Pin To Net: NetName=NetT7_17 Pin=T7-17
+Added Net: Name=NetT7_17

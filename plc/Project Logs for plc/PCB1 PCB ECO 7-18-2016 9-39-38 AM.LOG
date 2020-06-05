@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Netcom_4 Pin=T1-3
+Removed Pin From Net: NetName=Netcom_3 Pin=T1-4
+Removed Pin From Net: NetName=GND Pin=T1-6
+Removed Pin From Net: NetName=Net9v_2 Pin=T1-7
+Removed Member From Class: ClassName=Sheet1 Member=T1
+Change Component Designator: OldDesignator=plc NewDesignator=ac
+Added Component: Designator=com(header female 6x1)
+Added Component: Designator=plc(header 7)
+Added Pin To Net: NetName=GND Pin=com-1
+Added Pin To Net: NetName=Netcom_3 Pin=com-3
+Added Pin To Net: NetName=Netcom_4 Pin=com-4
+Added Pin To Net: NetName=Netcom_4 Pin=plc-3
+Added Pin To Net: NetName=Netcom_3 Pin=plc-4
+Added Pin To Net: NetName=GND Pin=plc-6
+Added Pin To Net: NetName=Net9v_2 Pin=plc-7
+Change Net Name : Old Net Name=NetF1_1 New Net Name=Netac_1
+Change Net Name : Old Net Name=Netplc_2 New Net Name=Netac_2
+Added Pin To Net: NetName=Netcom_5 Pin=com-5
+Added Pin To Net: NetName=Netcom_5 Pin=plc-2
+Added Net: Name=Netcom_5
+Added Pin To Net: NetName=Netcom_6 Pin=com-6
+Added Pin To Net: NetName=Netcom_6 Pin=plc-1
+Added Net: Name=Netcom_6
+Added Pin To Net: NetName=VCC Pin=com-2
+Added Pin To Net: NetName=VCC Pin=plc-5
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component com header female 6x1
+Added Member To Class: ClassName=Sheet1 Member=Component plc header 7

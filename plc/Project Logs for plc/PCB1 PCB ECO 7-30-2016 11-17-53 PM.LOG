@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P? NewDesignator=com
+Change Component Designator: OldDesignator=vin NewDesignator=vin 9
+Added Component: Designator=vin9(HDR1X2)
+Change Net Name : Old Net Name=NetP?_3 New Net Name=Netcom_3
+Change Net Name : Old Net Name=NetP?_4 New Net Name=Netcom_4
+Added Member To Class: ClassName=Sheet1 Member=Component vin9 Header 2

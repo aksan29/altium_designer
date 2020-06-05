@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Netfreq_2 Pin=RF1-2
+Removed Pin From Net: NetName=Netfreq_1 Pin=RF2-1
+Added Pin To Net: NetName=Netfreq_1 Pin=RF1-2
+Added Pin To Net: NetName=Netfreq_2 Pin=RF2-1

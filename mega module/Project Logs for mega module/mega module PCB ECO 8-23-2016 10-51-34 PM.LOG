@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=trimpot-1
+Added Member To Class: ClassName=mega module Member=Component * LCD
+Added Member To Class: ClassName=mega module Member=Component AD_H
+Added Member To Class: ClassName=mega module Member=Component Analog t 1 Header 8

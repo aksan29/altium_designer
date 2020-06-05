@@ -1,0 +1,16 @@
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Member To Class: ClassName=CPM Member=Component R1 Res1
+Added Member To Class: ClassName=CPM Member=Component R2 Res1
+Added Member To Class: ClassName=CPM Member=Component R3 Res1
+Added Member To Class: ClassName=CPM Member=Component R4 Res1
+Added Member To Class: ClassName=CPM Member=Component R5 Res1
+Added Member To Class: ClassName=CPM Member=Component R6 Res1
+Added Member To Class: ClassName=CPM Member=Component R7 Res1
+Added Member To Class: ClassName=CPM Member=Component R8 Res1

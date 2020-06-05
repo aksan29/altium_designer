@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=P1-1
+Removed Pin From Net: NetName=NetOPTO 2_1 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Added Component: Designator=7805 3(7805)
+Added Component: Designator=P?(header 3x1)
+Added Pin To Net: NetName=VSENSOR Pin=7805 3-1
+Added Pin To Net: NetName=GND Pin=7805 3-2
+Added Pin To Net: NetName=VCC Pin=7805 3-3
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetD1_2 Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=NetOPTO 2_1 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Member To Class: ClassName=CPM Member=Component 7805 3 Header 3
+Added Member To Class: ClassName=CPM Member=Component P? Header 3

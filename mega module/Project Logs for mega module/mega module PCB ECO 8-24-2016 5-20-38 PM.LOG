@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=vin-1
+Removed Member From Class: ClassName=mega module Member=FREK
+Removed Member From Class: ClassName=mega module Member=vin
+Added Component: Designator=frek n vin(HEADER 1X4L)
+Added Pin To Net: NetName=GND Pin=frek n vin-1
+Added Pin To Net: NetName=Netfrek n vin_2 Pin=frek n vin-2
+Added Pin To Net: NetName=Netfrek n vin_2 Pin=vinn1-1
+Added Pin To Net: NetName=Netfrek n vin_2 Pin=vinn2-1
+Added Net: Name=Netfrek n vin_2
+Added Pin To Net: NetName=Netfrek n vin_3 Pin=frek n vin-3
+Added Pin To Net: NetName=Netfrek n vin_3 Pin=pwm1-6
+Added Net: Name=Netfrek n vin_3
+Added Pin To Net: NetName=Netfrek n vin_4 Pin=frek n vin-4
+Added Pin To Net: NetName=Netfrek n vin_4 Pin=pwm1-4
+Added Net: Name=Netfrek n vin_4
+Added Member To Class: ClassName=mega module Member=Component frek n vin HEADER 1X4L

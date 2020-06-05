@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=com R-1
+Removed Pin From Net: NetName=VCC Pin=com R-2
+Removed Pin From Net: NetName=GND Pin=com S-1
+Removed Pin From Net: NetName=VCC Pin=com S-2
+Added Pin To Net: NetName=VCC Pin=com R-3
+Added Pin To Net: NetName=GND Pin=com R-4
+Added Pin To Net: NetName=VCC Pin=com S-3
+Added Pin To Net: NetName=GND Pin=com S-4
+Added Pin To Net: NetName=Netcom R_1 Pin=com R-1
+Added Pin To Net: NetName=Netcom R_1 Pin=plc ter R-3
+Added Net: Name=Netcom R_1
+Added Pin To Net: NetName=Netcom R_2 Pin=com R-2
+Added Pin To Net: NetName=Netcom R_2 Pin=plc ter R-4
+Added Net: Name=Netcom R_2
+Added Pin To Net: NetName=Netcom S_1 Pin=com S-1
+Added Pin To Net: NetName=Netcom S_1 Pin=plc ter S-3
+Added Net: Name=Netcom S_1
+Added Pin To Net: NetName=Netcom S_2 Pin=com S-2
+Added Pin To Net: NetName=Netcom S_2 Pin=plc ter S-4
+Added Net: Name=Netcom S_2

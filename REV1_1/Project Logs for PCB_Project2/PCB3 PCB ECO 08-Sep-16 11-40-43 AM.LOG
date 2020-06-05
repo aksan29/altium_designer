@@ -1,0 +1,4 @@
+Added Component: Designator=FREQ(header 2)
+Added Pin To Net: NetName=NetD9_2 Pin=FREQ-1
+Added Pin To Net: NetName=NetD9_2 Pin=FREQ-2
+Added Member To Class: ClassName=Sheet2 Member=Component FREQ Header 2

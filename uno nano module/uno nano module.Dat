@@ -1,0 +1,13 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~uno nano module.PrjPcb|ReportField=ProjectFullPath~C:\Users\fajrin\Desktop\uno nano module\uno nano module.PrjPcb|ReportField=Title~Bill of Materials For Project [uno nano module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~8:15:34 PM|ReportField=ReportDate~8/28/2016|ReportField=ReportDateTime~8/28/2016 8:15:34 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~8/28/2016|ReportField=CurrentTime~8:15:32 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\fajrin\Desktop\uno nano module\print uno nano.SchDoc|ReportField=DocumentName~print uno nano.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~8/28/2016|ReportField=Organization~|ReportField=ProjectName~uno nano module.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~uno nano module.PrjPcb|ReportField=DataSourceFullPath~C:\Users\fajrin\Desktop\uno nano module\uno nano module.PrjPcb
+Header 6|Header, 6-Pin|analog|header female 6x1|Header 6|2
+Header 4|Header, 4-Pin|com|HDR1X4|Header 4|2
+Header 8|Header, 8-Pin|Digital 1, Digital 1, power, power|header female 8x1|Header 8|4
+LCD||lcd|LCD16X2|LCD|2
+Header 15|Header, 15-Pin|nano 1, nano 1, nano 2, nano 2|HDR1X15|Header 15|4
+Header 4X2|Header, 4-Pin, Dual row|nano digi1, nano digi1, nano digi2, nano digi2, uno analog, uno analog|HDR2X4|Header 4X2|6
+Header 5|Header, 5-Pin|push|HDR1X5|Header 5|2
+Header 10|Header, 10-Pin|pwm|header female 10x1|Header 10|2
+RESISTOR||rb1, rb2, rb3, rb4|RESISTOR - duplicate|RESISTOR|4
+TRIMPOT||trimpot|TRIMPOT|TRIMPOT|1
+header 2||vin|header 2|header 2|2
+header 3x1||vinn1, vinn1, vinn2, vinn2|header 3x1|header 3x1|4

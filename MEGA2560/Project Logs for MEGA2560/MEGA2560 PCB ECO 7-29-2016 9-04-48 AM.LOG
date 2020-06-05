@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=MEGA2560 Member=*
+Change Component Designator: OldDesignator=* NewDesignator=lcd
+Added Pin To Net: NetName=GND Pin=lcd-1
+Added Pin To Net: NetName=VCC Pin=lcd-2
+Added Pin To Net: NetName=GND Pin=lcd-5
+Added Pin To Net: NetName=VCC Pin=lcd-15
+Added Pin To Net: NetName=GND Pin=lcd-16
+Added Pin To Net: NetName=Netlcd_3 Pin=lcd-3
+Added Net: Name=Netlcd_3
+Added Pin To Net: NetName=Netlcd_4 Pin=lcd-4
+Added Net: Name=Netlcd_4
+Added Pin To Net: NetName=Netlcd_6 Pin=lcd-6
+Added Net: Name=Netlcd_6
+Added Pin To Net: NetName=Netlcd_11 Pin=lcd-11
+Added Net: Name=Netlcd_11
+Added Pin To Net: NetName=Netlcd_12 Pin=lcd-12
+Added Net: Name=Netlcd_12
+Added Pin To Net: NetName=Netlcd_13 Pin=lcd-13
+Added Net: Name=Netlcd_13
+Added Pin To Net: NetName=Netlcd_14 Pin=lcd-14
+Added Net: Name=Netlcd_14
+Added Member To Class: ClassName=MEGA2560 Member=Component lcd LCD

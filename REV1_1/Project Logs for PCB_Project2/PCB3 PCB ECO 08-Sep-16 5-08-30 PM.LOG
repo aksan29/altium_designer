@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetD9_2 Pin=FREQ-1
+Removed Pin From Net: NetName=NetD9_2 Pin=FREQ-2
+Removed Pin From Net: NetName=GND Pin=IN-1
+Removed Pin From Net: NetName=VCC Pin=IN-2
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-9
+Removed Pin From Net: NetName=NetC1_1 Pin=METERING-10
+Removed Member From Class: ClassName=Sheet2 Member=FREQ
+Removed Member From Class: ClassName=Sheet2 Member=IN
+Change Component DesignItemId : Designator=METERING Old DesignItemId=Header 5X2 New DesignItemId=Header 9X2
+Change Component Footprint: Designator=METERING Old Footprint=HEADER 2X5 New Footprint=HDR2X9
+Change Component Comment : Designator=METERING Old Comment=Header 5X2 New Comment=Header 9X2
+Added Component: Designator=R8(RESISTOR - duplicate)
+Added Pin To Net: NetName=NetD1_2 Pin=METERING-9
+Added Pin To Net: NetName=NetD1_2 Pin=METERING-10
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-11
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-12
+Added Pin To Net: NetName=NetD9_2 Pin=METERING-13
+Added Pin To Net: NetName=NetD9_2 Pin=METERING-14
+Added Pin To Net: NetName=VCC Pin=METERING-15
+Added Pin To Net: NetName=VCC Pin=METERING-16
+Added Pin To Net: NetName=GND Pin=METERING-17
+Added Pin To Net: NetName=GND Pin=METERING-18
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetC1_1 Pin=R8-2
+Added Member To Class: ClassName=Sheet2 Member=Component R8 Res1

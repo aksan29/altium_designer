@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=v5-1
+Removed Pin From Net: NetName=Net7809_3 Pin=v5-2
+Removed Member From Class: ClassName=Unitsensor Member=v5

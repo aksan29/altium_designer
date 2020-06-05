@@ -1,0 +1,120 @@
+Added Component: Designator=ACS712(header 3x1)
+Added Component: Designator=C1(cap 1000uf)
+Added Component: Designator=C2(cap 1000uf)
+Added Component: Designator=C3(cap keramik)
+Added Component: Designator=D1(diode)
+Added Component: Designator=D2(diode)
+Added Component: Designator=D3(diode)
+Added Component: Designator=D4(diode)
+Added Component: Designator=D5(diode)
+Added Component: Designator=D6(diode)
+Added Component: Designator=D7(diode)
+Added Component: Designator=D8(diode)
+Added Component: Designator=D9(diode)
+Added Component: Designator=IN AC12V(terminal block)
+Added Component: Designator=LM358(DIP-8)
+Added Component: Designator=LS7486(DIP-14)
+Added Component: Designator=METERING(HEADER 2X5)
+Added Component: Designator=R1(RESISTOR - duplicate)
+Added Component: Designator=R2(RESISTOR - duplicate)
+Added Component: Designator=R3(RESISTOR - duplicate)
+Added Component: Designator=R4(RESISTOR - duplicate)
+Added Component: Designator=R5(RESISTOR - duplicate)
+Added Component: Designator=R6(RESISTOR - duplicate)
+Added Component: Designator=R7(RESISTOR - duplicate)
+Added Component: Designator=ZMPT(header 3x1)
+Added Pin To Net: NetName=VCC Pin=ACS712-1
+Added Pin To Net: NetName=NetACS712_2 Pin=ACS712-2
+Added Pin To Net: NetName=GND Pin=ACS712-3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetACS712_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetACS712_2 Pin=D1-2
+Added Pin To Net: NetName=NetACS712_2 Pin=D2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Pin To Net: NetName=NetC1_1 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetIN AC12V_1 Pin=IN AC12V-1
+Added Pin To Net: NetName=NetIN AC12V_2 Pin=IN AC12V-2
+Added Pin To Net: NetName=NetD6_1 Pin=LM358-1
+Added Pin To Net: NetName=NetLM358_2 Pin=LM358-2
+Added Pin To Net: NetName=NetACS712_2 Pin=LM358-3
+Added Pin To Net: NetName=NetD5_1 Pin=LM358-4
+Added Pin To Net: NetName=NetLM358_5 Pin=LM358-5
+Added Pin To Net: NetName=NetLM358_6 Pin=LM358-6
+Added Pin To Net: NetName=NetD7_1 Pin=LM358-7
+Added Pin To Net: NetName=VCC Pin=LM358-8
+Added Pin To Net: NetName=NetD7_2 Pin=LS7486-1
+Added Pin To Net: NetName=NetD6_2 Pin=LS7486-2
+Added Pin To Net: NetName=NetLS7486_3 Pin=LS7486-3
+Added Pin To Net: NetName=NetD8_1 Pin=LS7486-7
+Added Pin To Net: NetName=VCC Pin=LS7486-14
+Added Pin To Net: NetName=NetLS7486_3 Pin=METERING-1
+Added Pin To Net: NetName=NetLS7486_3 Pin=METERING-2
+Added Pin To Net: NetName=NetD6_2 Pin=METERING-3
+Added Pin To Net: NetName=NetD6_2 Pin=METERING-4
+Added Pin To Net: NetName=NetD7_2 Pin=METERING-5
+Added Pin To Net: NetName=NetD7_2 Pin=METERING-6
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING-7
+Added Pin To Net: NetName=NetACS712_2 Pin=METERING-8
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-9
+Added Pin To Net: NetName=NetC1_1 Pin=METERING-10
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetLM358_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetLM358_6 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetD6_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetD7_2 Pin=R4-2
+Added Pin To Net: NetName=NetD9_1 Pin=R5-1
+Added Pin To Net: NetName=NetIN AC12V_1 Pin=R5-2
+Added Pin To Net: NetName=NetIN AC12V_2 Pin=R6-1
+Added Pin To Net: NetName=NetD9_1 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetLS7486_3 Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=ZMPT-1
+Added Pin To Net: NetName=NetLM358_5 Pin=ZMPT-2
+Added Pin To Net: NetName=GND Pin=ZMPT-3
+Added Member To Class: ClassName=Sheet2 Member=Component ACS712 Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component C1 Cap2
+Added Member To Class: ClassName=Sheet2 Member=Component C2 Cap2
+Added Member To Class: ClassName=Sheet2 Member=Component C3 Cap2
+Added Member To Class: ClassName=Sheet2 Member=Component D1 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D2 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D3 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D4 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D5 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D6 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D7 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D8 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component D9 Diode 1N4004
+Added Member To Class: ClassName=Sheet2 Member=Component IN AC12V Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component LM358 SW-DIP4
+Added Member To Class: ClassName=Sheet2 Member=Component LS7486 SW DIP-7
+Added Member To Class: ClassName=Sheet2 Member=Component METERING Header 5X2
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component ZMPT Header 3
+Added Room: Name=Sheet2

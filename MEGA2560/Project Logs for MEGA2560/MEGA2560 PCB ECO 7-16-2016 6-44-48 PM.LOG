@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetCom_9 Pin=T2-1
+Added Component: Designator=COMM(HDR2X5)
+Added Component: Designator=T1(HDR1X8)
+Added Pin To Net: NetName=NetCom_3 Pin=COMM-1
+Added Pin To Net: NetName=NetCom_1 Pin=COMM-2
+Added Pin To Net: NetName=NetCom_2 Pin=COMM-3
+Added Pin To Net: NetName=NetCom_4 Pin=COMM-4
+Added Pin To Net: NetName=NetCom_9 Pin=COMM-5
+Added Pin To Net: NetName=NetCom_8 Pin=COMM-6
+Added Pin To Net: NetName=NetCom_7 Pin=COMM-7
+Added Pin To Net: NetName=NetCom_6 Pin=COMM-8
+Added Pin To Net: NetName=NetCom_5 Pin=COMM-9
+Added Pin To Net: NetName=NetCom_4 Pin=COMM-10
+Added Pin To Net: NetName=NetCom_3 Pin=T1-1
+Added Pin To Net: NetName=NetCom_1 Pin=T1-2
+Added Pin To Net: NetName=NetCom_2 Pin=T1-3
+Added Pin To Net: NetName=NetCom_4 Pin=T1-4
+Added Pin To Net: NetName=NetCom_9 Pin=T1-5
+Added Pin To Net: NetName=NetCom_8 Pin=T1-6
+Added Pin To Net: NetName=NetCom_7 Pin=T1-7
+Added Pin To Net: NetName=NetCom_6 Pin=T1-8
+Added Pin To Net: NetName=NetCom_5 Pin=T2-1
+Change Net Name : Old Net Name=NetCom_1 New Net Name=NetCOMM_2
+Change Net Name : Old Net Name=NetCom_2 New Net Name=NetCOMM_3
+Change Net Name : Old Net Name=NetCom_3 New Net Name=NetCOMM_1
+Change Net Name : Old Net Name=NetCom_4 New Net Name=NetCOMM_4
+Change Net Name : Old Net Name=NetCom_5 New Net Name=NetCOMM_9
+Change Net Name : Old Net Name=NetCom_6 New Net Name=NetCOMM_8
+Change Net Name : Old Net Name=NetCom_7 New Net Name=NetCOMM_7
+Change Net Name : Old Net Name=NetCom_8 New Net Name=NetCOMM_6
+Change Net Name : Old Net Name=NetCom_9 New Net Name=NetCOMM_5
+Change Net Name : Old Net Name=NetCom_10 New Net Name=NetT2_2
+Added Member To Class: ClassName=MEGA2560 Member=Component COMM Header 5X2
+Added Member To Class: ClassName=MEGA2560 Member=Component T1 Header 8

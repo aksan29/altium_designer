@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=RESISTOR - duplicate
+Change Component Footprint: Designator=D1 Old Footprint=DO-35 New Footprint=diode
+Change Component Footprint: Designator=D2 Old Footprint=DO-35 New Footprint=diode
+Change Component Footprint: Designator=D3 Old Footprint=DO-35 New Footprint=diode
+Change Component Footprint: Designator=D4 Old Footprint=DO-35 New Footprint=diode
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HEADER 1X4L
+Change Component Footprint: Designator=SENSOR Old Footprint=HDR2X5_CEN New Footprint=HEADER 2X5
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=cap 1000uf

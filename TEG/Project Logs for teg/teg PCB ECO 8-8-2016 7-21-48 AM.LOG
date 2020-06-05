@@ -1,0 +1,12 @@
+Added Component: Designator=lr(dioda zener)
+Added Component: Designator=ls(dioda zener)
+Added Component: Designator=lt(dioda zener)
+Added Pin To Net: NetName=NetC1R_2 Pin=lr-1
+Added Pin To Net: NetName=Netanalog_1 Pin=lr-2
+Added Pin To Net: NetName=NetC1S_2 Pin=ls-1
+Added Pin To Net: NetName=Netanalog_2 Pin=ls-2
+Added Pin To Net: NetName=NetC1T_2 Pin=lt-1
+Added Pin To Net: NetName=Netanalog_3 Pin=lt-2
+Added Member To Class: ClassName=teg Member=Component lr dioda zener
+Added Member To Class: ClassName=teg Member=Component ls dioda zener
+Added Member To Class: ClassName=teg Member=Component lt dioda zener

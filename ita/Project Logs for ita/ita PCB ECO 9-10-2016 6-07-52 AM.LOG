@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Netdigi1_5 Pin=digi1-6
+Removed Pin From Net: NetName=Netdigi1_7 Pin=push-8
+Removed Pin From Net: NetName=Netdigi1_8 Pin=push-9
+Removed Pin From Net: NetName=Netanalog_1 Pin=push-10
+Removed Pin From Net: NetName=Netanalog_2 Pin=relay-1
+Removed Pin From Net: NetName=Netanalog_3 Pin=relay-2
+Removed Pin From Net: NetName=Netanalog_4 Pin=relay-3
+Change Component DesignItemId : Designator=relay Old DesignItemId=header 3x1 New DesignItemId=Header 4
+Change Component Footprint: Designator=relay Old Footprint=header 3x1 New Footprint=HDR1X4
+Change Component Comment : Designator=relay Old Comment=header 3x1 New Comment=Header 4
+Added Pin To Net: NetName=Netdigi1_7 Pin=push-9
+Added Pin To Net: NetName=Netdigi1_8 Pin=push-10
+Added Pin To Net: NetName=Netanalog_1 Pin=relay-1
+Added Pin To Net: NetName=Netanalog_2 Pin=relay-2
+Added Pin To Net: NetName=Netanalog_3 Pin=relay-3
+Added Pin To Net: NetName=Netanalog_4 Pin=relay-4
+Added Pin To Net: NetName=Netdigi1_6 Pin=digi1-6
+Added Pin To Net: NetName=Netdigi1_6 Pin=push-8
+Added Net: Name=Netdigi1_6

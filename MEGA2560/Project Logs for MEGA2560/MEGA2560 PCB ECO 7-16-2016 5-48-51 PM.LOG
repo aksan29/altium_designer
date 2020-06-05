@@ -1,0 +1,12 @@
+Added Component: Designator=Keypad(HDR2X4)
+Added Pin To Net: NetName=NetKeypad_1 Pin=Keypad-1
+Added Pin To Net: NetName=NetKeypad_2 Pin=Keypad-2
+Added Pin To Net: NetName=NetKeypad_3 Pin=Keypad-3
+Added Pin To Net: NetName=NetKeypad_4 Pin=Keypad-4
+Added Pin To Net: NetName=NetKeypad_5 Pin=Keypad-5
+Added Pin To Net: NetName=NetKeypad_6 Pin=Keypad-6
+Added Pin To Net: NetName=NetKeypad_7 Pin=Keypad-7
+Added Pin To Net: NetName=NetKeypad_8 Pin=Keypad-8
+Added Pin To Net: NetName=NetCom_5 Pin=T1-3
+Added Pin To Net: NetName=NetCom_6 Pin=T1-4
+Added Member To Class: ClassName=MEGA2560 Member=Component Keypad Header 4X2
